@@ -1,0 +1,2252 @@
+31-07-2016 12:52:13:387272 INFO:	SERVER:Staring the server 
+31-07-2016 12:52:13:387431 INFO:	SERVER:Fetching data base path 
+31-07-2016 12:52:13:387499 DEBUG:	SERVER:Database path found 
+31-07-2016 12:52:13:387512 INFO:	SERVER:Client[ ] request for pulsar details 
+31-07-2016 12:52:13:387849 DEBUG:	SERVER:Getting the instance of database 
+31-07-2016 12:52:13:387871 INFO:	SERVER:Get the data for the required vehicle 
+31-07-2016 12:52:13:387897 INFO:	SERVER:Fiiling up base class vahan 
+31-07-2016 12:52:13:391136 INFO:	SERVER:Pulsar details sent over socket 
+31-07-2016 12:52:13:391227 INFO:	SERVER:Server exiting..... 
+31-07-2016 05:25:45:238954 INFO:	SERVER:Staring the server 
+31-07-2016 05:25:45:332958 INFO:	SERVER:Fetching data base path 
+31-07-2016 05:25:45:344698 DEBUG:	SERVER:Database path found 
+31-07-2016 05:25:45:344771 INFO:	SERVER:Client[ ] request for pulsar details 
+31-07-2016 05:25:45:353313 DEBUG:	SERVER:Getting the instance of database 
+31-07-2016 05:25:45:353424 INFO:	SERVER:Get the data for the required vehicle 
+31-07-2016 05:25:45:353491 INFO:	SERVER:Fiiling up base class vahan 
+31-07-2016 05:25:45:353602 INFO:	SERVER:Pulsar details sent over socket 
+31-07-2016 05:25:45:353630 INFO:	SERVER:Server exiting..... 
+31-07-2016 05:58:19:930854 INFO:	SERVER:Staring the server 
+31-07-2016 05:58:20:196776 INFO:	SERVER:Fetching data base path 
+31-07-2016 05:58:20:233762 DEBUG:	SERVER:Database path found 
+31-07-2016 05:58:20:233880 INFO:	SERVER:Client[ ] request for detailspulsar 
+31-07-2016 05:58:20:267302 DEBUG:	SERVER:Getting the instance of database 
+31-07-2016 05:58:20:267400 INFO:	SERVER:Get the data for the required vehicle 
+31-07-2016 05:58:20:267462 INFO:	SERVER:Fiiling up base class vahan 
+31-07-2016 05:58:20:267619 INFO:	SERVER:Pulsar details sent over socket 
+31-07-2016 05:58:20:267664 INFO:	SERVER:Server exiting..... 
+31-07-2016 06:12:59:951741 INFO:	SERVER:Staring the server 
+31-07-2016 06:12:59:951959 INFO:	SERVER:Fetching data base path 
+31-07-2016 06:12:59:966568 DEBUG:	SERVER:Database path found 
+31-07-2016 06:12:59:966703 INFO:	SERVER:Client[ ] request for details pulsar 23 
+31-07-2016 06:12:59:983695 DEBUG:	SERVER:Getting the instance of database 
+31-07-2016 06:12:59:983770 INFO:	SERVER:Get the data for the required vehicle 
+31-07-2016 06:12:59:983811 INFO:	SERVER:Fiiling up base class vahan 
+31-07-2016 06:12:59:991318 INFO:	SERVER:Pulsar details sent over socket 
+31-07-2016 06:12:59:991408 INFO:	SERVER:Server exiting..... 
+31-07-2016 06:14:39:242911 INFO:	SERVER:Staring the server 
+31-07-2016 06:14:39:243001 INFO:	SERVER:Fetching data base path 
+31-07-2016 06:15:58:97513 INFO:	SERVER:Staring the server 
+31-07-2016 06:15:58:97603 INFO:	SERVER:Fetching data base path 
+31-07-2016 06:18:28:553829 INFO:	SERVER:Staring the server 
+31-07-2016 06:18:28:553913 INFO:	SERVER:Fetching data base path 
+31-07-2016 06:20:59:345711 INFO:	SERVER:Staring the server 
+31-07-2016 06:20:59:345793 INFO:	SERVER:Fetching data base path 
+31-07-2016 06:21:18:425414 DEBUG:	SERVER:Database path found 
+31-07-2016 06:21:28:949952 INFO:	SERVER:Client[ ] request for details pulsar 23 
+31-07-2016 06:22:30:791885 DEBUG:	SERVER:Getting the instance of database 
+31-07-2016 06:22:31:905202 INFO:	SERVER:Get the data for the required vehicle 
+31-07-2016 06:22:31:923991 INFO:	SERVER:Fiiling up base class vahan 
+31-07-2016 06:22:34:647378 INFO:	SERVER:Pulsar details sent over socket 
+31-07-2016 06:22:34:647631 INFO:	SERVER:Server exiting..... 
+31-07-2016 06:29:57:751137 INFO:	SERVER:Staring the server 
+31-07-2016 06:29:57:751299 INFO:	SERVER:Fetching data base path 
+31-07-2016 06:29:57:805360 DEBUG:	SERVER:Database path found 
+31-07-2016 06:29:57:805433 INFO:	SERVER:Client[ ] request for details pulsar 23 
+31-07-2016 06:29:57:822332 DEBUG:	SERVER:Getting the instance of database 
+31-07-2016 06:29:57:822403 INFO:	SERVER:Get the data for the required vehicle 
+31-07-2016 06:29:57:822430 INFO:	SERVER:Fiiling up base class vahan 
+31-07-2016 06:29:57:822469 INFO:	SERVER:Pulsar details sent over socket 
+31-07-2016 06:29:57:822479 INFO:	SERVER:Server exiting..... 
+31-07-2016 06:31:57:121263 INFO:	SERVER:Staring the server 
+31-07-2016 06:31:57:121772 INFO:	SERVER:Fetching data base path 
+31-07-2016 06:35:19:951081 INFO:	SERVER:Staring the server 
+31-07-2016 06:35:19:951241 INFO:	SERVER:Fetching data base path 
+31-07-2016 06:35:19:951571 DEBUG:	SERVER:Database path found 
+31-07-2016 06:35:19:951627 INFO:	SERVER:Client[ ] request for details pulsar 23 
+31-07-2016 06:35:19:951802 DEBUG:	SERVER:Getting the instance of database 
+31-07-2016 06:35:19:952076 INFO:	SERVER:Get the data for the required vehicle 
+31-07-2016 06:35:19:952114 INFO:	SERVER:Fiiling up base class vahan 
+31-07-2016 06:35:19:957700 INFO:	SERVER:Pulsar details sent over socket 
+31-07-2016 06:35:19:958357 INFO:	SERVER:Server exiting..... 
+31-07-2016 06:37:05:952263 INFO:	SERVER:Staring the server 
+31-07-2016 06:37:05:952614 INFO:	SERVER:Fetching data base path 
+31-07-2016 06:37:05:952765 DEBUG:	SERVER:Database path found 
+31-07-2016 06:37:05:952814 INFO:	SERVER:Client[ ] request for details pulsar 23 
+31-07-2016 06:37:05:954679 DEBUG:	SERVER:Getting the instance of database 
+31-07-2016 06:37:05:954790 INFO:	SERVER:Get the data for the required vehicle 
+31-07-2016 06:37:05:954852 INFO:	SERVER:Fiiling up base class vahan 
+31-07-2016 06:37:05:958759 INFO:	SERVER:Pulsar details sent over socket 
+31-07-2016 06:37:05:958852 INFO:	SERVER:Server exiting..... 
+31-07-2016 06:40:38:711461 INFO:	SERVER:Staring the server 
+31-07-2016 06:40:38:711735 INFO:	SERVER:Fetching data base path 
+31-07-2016 06:40:38:714100 DEBUG:	SERVER:Database path found 
+31-07-2016 06:40:38:714212 INFO:	SERVER:Client[ ] request for details pulsar 23 
+31-07-2016 06:40:38:715234 DEBUG:	SERVER:Getting the instance of database 
+31-07-2016 06:40:38:715349 INFO:	SERVER:Get the data for the required vehicle 
+31-07-2016 06:40:38:715422 INFO:	SERVER:Fiiling up base class vahan 
+31-07-2016 06:40:38:719177 INFO:	SERVER:Pulsar details sent over socket 
+31-07-2016 06:40:38:719984 INFO:	SERVER:Server exiting..... 
+31-07-2016 06:42:17:742796 INFO:	SERVER:Staring the server 
+31-07-2016 06:42:17:742938 INFO:	SERVER:Fetching data base path 
+31-07-2016 06:42:17:743042 DEBUG:	SERVER:Database path found 
+31-07-2016 06:42:17:743079 INFO:	SERVER:Client[ ] request for details pulsar 23 
+31-07-2016 06:42:17:743420 DEBUG:	SERVER:Getting the instance of database 
+31-07-2016 06:42:17:743447 INFO:	SERVER:Get the data for the required vehicle 
+31-07-2016 06:42:17:743480 INFO:	SERVER:Fiiling up base class vahan 
+31-07-2016 06:42:17:744717 INFO:	SERVER:Pulsar details sent over socket 
+31-07-2016 06:42:17:744758 INFO:	SERVER:Server exiting..... 
+31-07-2016 06:42:49:279314 INFO:	SERVER:Staring the server 
+31-07-2016 06:42:49:279399 INFO:	SERVER:Fetching data base path 
+31-07-2016 06:45:28:653619 INFO:	SERVER:Staring the server 
+31-07-2016 06:45:28:653735 INFO:	SERVER:Fetching data base path 
+31-07-2016 06:45:28:653787 DEBUG:	SERVER:Database path found 
+31-07-2016 06:45:28:653803 INFO:	SERVER:Client[ ] request for details pulsar 23 
+31-07-2016 06:45:28:653875 DEBUG:	SERVER:Getting the instance of database 
+31-07-2016 06:45:28:653885 INFO:	SERVER:Get the data for the required vehicle 
+31-07-2016 06:45:28:653901 INFO:	SERVER:Fiiling up base class vahan 
+31-07-2016 06:45:28:653926 INFO:	SERVER:Pulsar details sent over socket 
+31-07-2016 06:45:28:653934 INFO:	SERVER:Server exiting..... 
+31-07-2016 06:45:57:192831 INFO:	SERVER:Staring the server 
+31-07-2016 06:45:57:193167 INFO:	SERVER:Fetching data base path 
+31-07-2016 06:45:57:193238 ERROR:	SERVER:Database path not found 
+31-07-2016 06:46:49:300290 INFO:	SERVER:Staring the server 
+31-07-2016 06:46:49:302894 INFO:	SERVER:Fetching data base path 
+31-07-2016 06:46:49:302994 ERROR:	SERVER:Database path not found 
+31-07-2016 07:11:52:212094 INFO:	SERVER:Staring the server 
+31-07-2016 07:11:52:212254 INFO:	SERVER:Fetching data base path 
+31-07-2016 07:11:52:212285 ERROR:	SERVER:Database path not found 
+31-07-2016 07:13:49:258107 INFO:	SERVER:Staring the server 
+31-07-2016 07:13:49:258386 INFO:	SERVER:Fetching data base path 
+31-07-2016 07:13:49:295334 DEBUG:	SERVER:Database path found 
+31-07-2016 07:13:49:349754 INFO:	SERVER:Client[ ] request for details pulsar 23 
+31-07-2016 07:13:49:349831 DEBUG:	SERVER:Getting the instance of database 
+31-07-2016 07:13:49:349847 INFO:	SERVER:Get the data for the required vehicle 
+31-07-2016 07:13:49:349880 INFO:	SERVER:Fiiling up base class vahan 
+31-07-2016 07:13:49:359140 INFO:	SERVER:Pulsar details sent over socket 
+31-07-2016 07:13:49:359223 INFO:	SERVER:Server exiting..... 
+31-07-2016 07:15:17:826677 INFO:	SERVER:Staring the server 
+31-07-2016 07:15:17:826807 INFO:	SERVER:Fetching data base path 
+31-07-2016 07:15:17:826863 DEBUG:	SERVER:Database path found 
+31-07-2016 07:15:17:827457 INFO:	SERVER:Client[ ] request for details pulsar 23 
+31-07-2016 07:15:17:827492 DEBUG:	SERVER:Getting the instance of database 
+31-07-2016 07:15:17:827508 INFO:	SERVER:Get the data for the required vehicle 
+31-07-2016 07:15:17:827594 INFO:	SERVER:Fiiling up base class vahan 
+31-07-2016 07:15:17:828443 INFO:	SERVER:Pulsar details sent over socket 
+31-07-2016 07:15:17:828541 INFO:	SERVER:Server exiting..... 
+04-08-2016 11:43:55:767030 INFO:	SERVER:Staring the server 
+04-08-2016 11:43:55:896573 INFO:	SERVER:Fetching data base path 
+04-08-2016 11:43:55:911504 DEBUG:	SERVER:Database path found 
+04-08-2016 11:43:55:957206 INFO:	SERVER:Client[ ] request for details pulsar 23 
+04-08-2016 11:43:55:957279 DEBUG:	SERVER:Getting the instance of database 
+04-08-2016 11:43:55:957295 INFO:	SERVER:Get the data for the required vehicle 
+04-08-2016 11:43:55:957330 INFO:	SERVER:Fiiling up base class vahan 
+04-08-2016 11:43:55:959051 INFO:	SERVER:Pulsar details sent over socket 
+04-08-2016 11:43:55:959109 INFO:	SERVER:Server exiting..... 
+05-08-2016 12:23:52:940480 INFO:	SERVER:Staring the server 
+05-08-2016 12:23:52:968573 INFO:	SERVER:Fetching data base path 
+05-08-2016 12:23:52:968800 DEBUG:	SERVER:Database path found 
+05-08-2016 12:23:52:1589 INFO:	SERVER:Client[ ] request for details pulsar 23 
+05-08-2016 12:23:52:1669 DEBUG:	SERVER:Getting the instance of database 
+05-08-2016 12:23:52:1694 INFO:	SERVER:Get the data for the required vehicle 
+05-08-2016 12:23:52:1744 INFO:	SERVER:Fiiling up base class vahan 
+05-08-2016 12:23:53:4990 INFO:	SERVER:Pulsar details sent over socket 
+05-08-2016 12:23:53:5080 INFO:	SERVER:Server exiting..... 
+05-08-2016 12:26:56:544130 INFO:	SERVER:Staring the server 
+05-08-2016 12:26:56:544578 INFO:	SERVER:Fetching data base path 
+05-08-2016 12:26:56:544805 DEBUG:	SERVER:Database path found 
+05-08-2016 12:26:56:546692 INFO:	SERVER:Client[ ] request for details pulsar 23 
+05-08-2016 12:26:56:546818 DEBUG:	SERVER:Getting the instance of database 
+05-08-2016 12:26:56:546852 INFO:	SERVER:Get the data for the required vehicle 
+05-08-2016 12:26:56:546921 INFO:	SERVER:Fiiling up base class vahan 
+05-08-2016 12:26:56:551073 INFO:	SERVER:Pulsar details sent over socket 
+05-08-2016 12:26:56:551184 INFO:	SERVER:Server exiting..... 
+05-08-2016 12:26:56:551214 INFO:	SERVER:initializing the inotify 
+05-08-2016 12:26:56:551557 INFO:	SERVER:Staring the thread for inotify 
+05-08-2016 12:30:21:76383 INFO:	SERVER:Staring the server 
+05-08-2016 12:30:21:76487 INFO:	SERVER:Fetching data base path 
+05-08-2016 12:30:21:76538 DEBUG:	SERVER:Database path found 
+05-08-2016 12:30:21:76876 INFO:	SERVER:Client[ ] request for details pulsar 23 
+05-08-2016 12:30:21:76894 DEBUG:	SERVER:Getting the instance of database 
+05-08-2016 12:30:21:76904 INFO:	SERVER:Get the data for the required vehicle 
+05-08-2016 12:30:21:76925 INFO:	SERVER:Fiiling up base class vahan 
+05-08-2016 12:30:21:77893 INFO:	SERVER:Pulsar details sent over socket 
+05-08-2016 12:30:21:77941 INFO:	SERVER:Server exiting..... 
+05-08-2016 12:30:21:77952 INFO:	SERVER:initializing the inotify 
+05-08-2016 12:30:21:77960 INFO:	SERVER:Staring the thread for inotify 
+05-08-2016 12:30:21:78051 INFO:	SERVER:Adding a watch for file 
+05-08-2016 12:30:21:78075 INFO:	SERVER:infite while loop 
+05-08-2016 12:31:44:204980 INFO:	SERVER:infite while loop 
+05-08-2016 12:33:49:387699 INFO:	SERVER:Staring the server 
+05-08-2016 12:33:49:388026 INFO:	SERVER:Fetching data base path 
+05-08-2016 12:33:49:388250 DEBUG:	SERVER:Database path found 
+05-08-2016 12:33:49:391374 INFO:	SERVER:Client[ ] request for details pulsar 23 
+05-08-2016 12:33:49:391451 DEBUG:	SERVER:Getting the instance of database 
+05-08-2016 12:33:49:391477 INFO:	SERVER:Get the data for the required vehicle 
+05-08-2016 12:33:49:391539 INFO:	SERVER:Fiiling up base class vahan 
+05-08-2016 12:33:49:395398 INFO:	SERVER:Pulsar details sent over socket 
+05-08-2016 12:33:49:395527 INFO:	SERVER:Server exiting..... 
+05-08-2016 12:33:49:395555 INFO:	SERVER:initializing the inotify 
+05-08-2016 12:33:49:395580 INFO:	SERVER:Staring the thread for inotify 
+05-08-2016 12:33:49:395956 INFO:	SERVER:Adding a watch for file 
+05-08-2016 12:33:49:396043 INFO:	SERVER:infite while loop 
+05-08-2016 12:34:12:140853 INFO:	SERVER:file is modified 
+05-08-2016 12:34:17:141154 INFO:	SERVER:infite while loop 
+05-08-2016 12:34:22:770253 INFO:	SERVER:infite while loop 
+05-08-2016 12:34:27:770749 INFO:	SERVER:infite while loop 
+05-08-2016 12:34:32:771294 INFO:	SERVER:infite while loop 
+05-08-2016 12:34:51:329739 INFO:	SERVER:infite while loop 
+05-08-2016 12:34:56:330141 INFO:	SERVER:infite while loop 
+05-08-2016 12:35:01:331012 INFO:	SERVER:infite while loop 
+05-08-2016 12:35:42:648987 INFO:	SERVER:infite while loop 
+05-08-2016 12:35:47:649789 INFO:	SERVER:infite while loop 
+05-08-2016 12:35:52:650106 INFO:	SERVER:infite while loop 
+05-08-2016 12:35:57:650441 INFO:	SERVER:infite while loop 
+05-08-2016 12:41:47:255744 INFO:	SERVER:Staring the server 
+05-08-2016 12:41:47:319268 INFO:	SERVER:Fetching data base path 
+05-08-2016 12:41:47:339426 DEBUG:	SERVER:Database path found 
+05-08-2016 12:41:47:385303 INFO:	SERVER:Client[ ] request for details pulsar 23 
+05-08-2016 12:41:47:385363 DEBUG:	SERVER:Getting the instance of database 
+05-08-2016 12:41:47:385375 INFO:	SERVER:Get the data for the required vehicle 
+05-08-2016 12:41:47:385400 INFO:	SERVER:Fiiling up base class vahan 
+05-08-2016 12:41:47:387421 INFO:	SERVER:Pulsar details sent over socket 
+05-08-2016 12:41:47:387476 INFO:	SERVER:Server exiting..... 
+05-08-2016 12:41:47:387484 INFO:	SERVER:initializing the inotify 
+05-08-2016 12:41:47:387490 INFO:	SERVER:Staring the thread for inotify 
+05-08-2016 12:41:47:387921 INFO:	SERVER:Adding a watch for file 
+05-08-2016 12:41:47:387953 INFO:	SERVER:infite while loop 
+05-08-2016 12:42:06:99741 INFO:	SERVER:file is modified 
+05-08-2016 12:42:11:100052 INFO:	SERVER:infite while loop 
+05-08-2016 12:42:16:100372 INFO:	SERVER:infite while loop 
+05-08-2016 12:42:31:902695 INFO:	SERVER:infite while loop 
+05-08-2016 12:42:36:902887 INFO:	SERVER:infite while loop 
+07-08-2016 06:46:18:248004 INFO:	SERVER:Staring the server 
+07-08-2016 06:46:18:249084 INFO:	SERVER:Fetching data base path 
+07-08-2016 06:46:18:249604 DEBUG:	SERVER:Database path found 
+07-08-2016 06:46:18:251830 INFO:	SERVER:Client[ ] request for details pulsar 23 
+07-08-2016 06:46:18:252710 DEBUG:	SERVER:Getting the instance of database 
+07-08-2016 06:46:18:253015 INFO:	SERVER:Get the data for the required vehicle 
+07-08-2016 06:46:18:253252 INFO:	SERVER:Fiiling up base class vahan 
+07-08-2016 06:46:18:258455 INFO:	SERVER:Pulsar details sent over socket 
+07-08-2016 06:46:18:258803 INFO:	SERVER:Server exiting..... 
+07-08-2016 06:46:18:258911 INFO:	SERVER:initializing the inotify 
+07-08-2016 06:46:18:258998 INFO:	SERVER:Staring the thread for inotify 
+07-08-2016 06:46:18:259492 INFO:	SERVER:Adding a watch for file 
+07-08-2016 06:46:18:259898 INFO:	SERVER:infite while loop 
+07-08-2016 06:46:29:775753 INFO:	SERVER:file is modified 
+07-08-2016 06:46:29:775895 INFO:	SERVER:infite while loop 
+07-08-2016 06:46:33:782377 INFO:	SERVER:infite while loop 
+07-08-2016 06:46:47:687702 INFO:	SERVER:infite while loop 
+07-08-2016 06:46:47:732623 INFO:	SERVER:infite while loop 
+07-08-2016 06:46:47:735702 INFO:	SERVER:infite while loop 
+07-08-2016 06:46:51:740621 INFO:	SERVER:infite while loop 
+07-08-2016 06:48:13:448839 INFO:	SERVER:Staring the server 
+07-08-2016 06:48:13:449091 INFO:	SERVER:Fetching data base path 
+07-08-2016 06:48:13:449236 DEBUG:	SERVER:Database path found 
+07-08-2016 06:48:13:449616 INFO:	SERVER:Client[ ] request for details pulsar 23 
+07-08-2016 06:48:13:449700 DEBUG:	SERVER:Getting the instance of database 
+07-08-2016 06:48:13:449796 INFO:	SERVER:Get the data for the required vehicle 
+07-08-2016 06:48:13:449882 INFO:	SERVER:Fiiling up base class vahan 
+07-08-2016 06:48:13:451171 INFO:	SERVER:Pulsar details sent over socket 
+07-08-2016 06:48:13:451354 INFO:	SERVER:Server exiting..... 
+07-08-2016 06:48:13:451460 INFO:	SERVER:initializing the inotify 
+07-08-2016 06:48:13:451605 INFO:	SERVER:Staring the thread for inotify 
+07-08-2016 06:48:13:452172 INFO:	SERVER:Adding a watch for file 
+07-08-2016 06:48:13:452329 INFO:	SERVER:infite while loop 
+07-08-2016 07:22:28:285581 INFO:	SERVER:Staring the server 
+07-08-2016 07:22:28:285986 INFO:	SERVER:Fetching data base path 
+07-08-2016 07:22:28:286217 DEBUG:	SERVER:Database path found 
+07-08-2016 07:22:28:288019 INFO:	SERVER:Client[ ] request for details pulsar 23 
+07-08-2016 07:22:28:288239 DEBUG:	SERVER:Getting the instance of database 
+07-08-2016 07:22:28:288388 INFO:	SERVER:Get the data for the required vehicle 
+07-08-2016 07:22:28:288549 INFO:	SERVER:Fiiling up base class vahan 
+07-08-2016 07:22:28:292929 INFO:	SERVER:Pulsar details sent over socket 
+07-08-2016 07:22:28:293457 INFO:	SERVER:Server exiting..... 
+07-08-2016 07:22:28:293629 INFO:	SERVER:initializing the inotify 
+07-08-2016 07:22:28:293767 INFO:	SERVER:Staring the thread for inotify 
+07-08-2016 07:22:28:294000 INFO:	SERVER:Adding a watch for file 
+07-08-2016 07:22:28:294254 INFO:	SERVER:infite while loop 
+07-08-2016 07:22:44:635209 INFO:	SERVER:file is modified 
+07-08-2016 07:22:44:635289 INFO:	SERVER:infite while loop 
+07-08-2016 07:22:48:640157 INFO:	SERVER:infite while loop 
+07-08-2016 07:24:16:804048 INFO:	SERVER:infite while loop 
+07-08-2016 07:24:16:847567 INFO:	SERVER:infite while loop 
+07-08-2016 07:24:16:869815 INFO:	SERVER:infite while loop 
+07-08-2016 07:24:20:874343 INFO:	SERVER:infite while loop 
+07-08-2016 07:25:27:928534 INFO:	SERVER:Staring the server 
+07-08-2016 07:25:27:930793 INFO:	SERVER:Fetching data base path 
+07-08-2016 07:25:27:931956 DEBUG:	SERVER:Database path found 
+07-08-2016 07:25:27:938390 INFO:	SERVER:Client[ ] request for details pulsar 23 
+07-08-2016 07:25:27:939808 DEBUG:	SERVER:Getting the instance of database 
+07-08-2016 07:25:27:940172 INFO:	SERVER:Get the data for the required vehicle 
+07-08-2016 07:25:27:940509 INFO:	SERVER:Fiiling up base class vahan 
+07-08-2016 07:25:27:947962 INFO:	SERVER:Pulsar details sent over socket 
+07-08-2016 07:25:27:948758 INFO:	SERVER:Server exiting..... 
+07-08-2016 07:25:27:949064 INFO:	SERVER:initializing the inotify 
+07-08-2016 07:25:27:949407 INFO:	SERVER:Staring the thread for inotify 
+07-08-2016 07:25:27:950034 INFO:	SERVER:Adding a watch for file 
+07-08-2016 07:25:27:950340 INFO:	SERVER:infite while loop 
+07-08-2016 07:25:38:550622 INFO:	SERVER:file is modified 
+07-08-2016 07:25:38:550774 INFO:	SERVER:infite while loop 
+07-08-2016 07:25:42:557156 INFO:	SERVER:infite while loop 
+07-08-2016 07:27:47:62199 INFO:	SERVER:Staring the server 
+07-08-2016 07:27:47:63388 INFO:	SERVER:Fetching data base path 
+07-08-2016 07:27:47:64711 DEBUG:	SERVER:Database path found 
+07-08-2016 07:27:47:69616 INFO:	SERVER:Client[ ] request for details pulsar 23 
+07-08-2016 07:27:47:70158 DEBUG:	SERVER:Getting the instance of database 
+07-08-2016 07:27:47:71845 INFO:	SERVER:Get the data for the required vehicle 
+07-08-2016 07:27:47:72857 INFO:	SERVER:Fiiling up base class vahan 
+07-08-2016 07:27:47:91059 INFO:	SERVER:Pulsar details sent over socket 
+07-08-2016 07:27:47:91358 INFO:	SERVER:Server exiting..... 
+07-08-2016 07:27:47:91491 INFO:	SERVER:initializing the inotify 
+07-08-2016 07:27:47:91555 INFO:	SERVER:Staring the thread for inotify 
+07-08-2016 07:27:47:91702 INFO:	SERVER:Adding a watch for file 
+07-08-2016 07:27:47:91768 INFO:	SERVER:infite while loop 
+07-08-2016 07:27:58:99386 INFO:	SERVER:file is modified 
+07-08-2016 07:27:58:99552 INFO:	SERVER:infite while loop 
+07-08-2016 07:28:13:823175 INFO:	SERVER:infite while loop 
+07-08-2016 07:28:13:876676 INFO:	SERVER:infite while loop 
+07-08-2016 07:28:13:879079 INFO:	SERVER:infite while loop 
+07-08-2016 07:28:17:883929 INFO:	SERVER:infite while loop 
+07-08-2016 07:28:34:46614 INFO:	SERVER:infite while loop 
+07-08-2016 07:28:38:50841 INFO:	SERVER:infite while loop 
+07-08-2016 07:30:09:408600 INFO:	SERVER:Staring the server 
+07-08-2016 07:30:09:411195 INFO:	SERVER:Fetching data base path 
+07-08-2016 07:30:09:412744 DEBUG:	SERVER:Database path found 
+07-08-2016 07:30:09:413946 INFO:	SERVER:Client[ ] request for details pulsar 23 
+07-08-2016 07:30:09:414133 DEBUG:	SERVER:Getting the instance of database 
+07-08-2016 07:30:09:414250 INFO:	SERVER:Get the data for the required vehicle 
+07-08-2016 07:30:09:414384 INFO:	SERVER:Fiiling up base class vahan 
+07-08-2016 07:30:09:419755 INFO:	SERVER:Pulsar details sent over socket 
+07-08-2016 07:30:09:420750 INFO:	SERVER:Server exiting..... 
+07-08-2016 07:30:09:421707 INFO:	SERVER:initializing the inotify 
+07-08-2016 07:30:09:421856 INFO:	SERVER:Staring the thread for inotify 
+07-08-2016 07:30:09:422520 INFO:	SERVER:Adding a watch for file 
+07-08-2016 07:30:09:422938 INFO:	SERVER:infite while loop 
+07-08-2016 07:30:09:423231 INFO:	SERVER:value of length is  
+07-08-2016 07:30:09:423407 INFO:	SERVER:value of i is  
+07-08-2016 07:30:34:472137 INFO:	SERVER:file is modified 
+07-08-2016 07:30:34:472219 INFO:	SERVER:infite while loop 
+07-08-2016 07:30:34:472242 INFO:	SERVER:ad 
+07-08-2016 07:30:34:472286 INFO:	SERVER:Value of length is %d 
+07-08-2016 07:30:34:503843 INFO:	SERVER:infite while loop 
+07-08-2016 07:30:34:503892 INFO:	SERVER:s  
+07-08-2016 07:30:34:503902 INFO:	SERVER:Value of length is %d 
+07-08-2016 07:30:34:506193 INFO:	SERVER:infite while loop 
+07-08-2016 07:30:34:506235 INFO:	SERVER:ad 
+07-08-2016 07:30:34:506244 INFO:	SERVER:Value of length is %d 
+07-08-2016 07:30:38:511708 INFO:	SERVER:infite while loop 
+07-08-2016 07:30:38:511794 INFO:	SERVER:ad 
+07-08-2016 07:30:38:511874 INFO:	SERVER:Value of length is %d 
+07-08-2016 07:31:04:810287 INFO:	SERVER:infite while loop 
+07-08-2016 07:31:04:810376 INFO:	SERVER:ad 
+07-08-2016 07:31:04:810396 INFO:	SERVER:Value of length is %d 
+07-08-2016 07:31:06:476583 INFO:	SERVER:infite while loop 
+07-08-2016 07:31:06:476740 INFO:	SERVER:ad 
+07-08-2016 07:31:06:476780 INFO:	SERVER:Value of length is %d 
+07-08-2016 07:31:06:514767 INFO:	SERVER:infite while loop 
+07-08-2016 07:31:06:514827 INFO:	SERVER:s  
+07-08-2016 07:31:06:514842 INFO:	SERVER:Value of length is %d 
+07-08-2016 07:31:06:518782 INFO:	SERVER:infite while loop 
+07-08-2016 07:31:06:518845 INFO:	SERVER:ad 
+07-08-2016 07:31:06:518862 INFO:	SERVER:Value of length is %d 
+07-08-2016 07:31:10:524621 INFO:	SERVER:infite while loop 
+07-08-2016 07:31:10:524810 INFO:	SERVER:ad 
+07-08-2016 07:31:10:524851 INFO:	SERVER:Value of length is %d 
+07-08-2016 07:32:05:53568 INFO:	SERVER:Staring the server 
+07-08-2016 07:32:05:53880 INFO:	SERVER:Fetching data base path 
+07-08-2016 07:32:05:54006 DEBUG:	SERVER:Database path found 
+07-08-2016 07:32:05:54730 INFO:	SERVER:Client[ ] request for details pulsar 23 
+07-08-2016 07:32:05:54841 DEBUG:	SERVER:Getting the instance of database 
+07-08-2016 07:32:05:54913 INFO:	SERVER:Get the data for the required vehicle 
+07-08-2016 07:32:05:54995 INFO:	SERVER:Fiiling up base class vahan 
+07-08-2016 07:32:05:58090 INFO:	SERVER:Pulsar details sent over socket 
+07-08-2016 07:32:05:59595 INFO:	SERVER:Server exiting..... 
+07-08-2016 07:32:05:60564 INFO:	SERVER:initializing the inotify 
+07-08-2016 07:32:05:61444 INFO:	SERVER:Staring the thread for inotify 
+07-08-2016 07:32:05:61947 INFO:	SERVER:Adding a watch for file 
+07-08-2016 07:32:05:62758 INFO:	SERVER:infite while loop 
+07-08-2016 07:32:10:995767 INFO:	SERVER:file is modified 
+07-08-2016 07:32:10:997207 INFO:	SERVER:infite while loop 
+07-08-2016 07:32:14:999183 INFO:	SERVER:infite while loop 
+07-08-2016 07:32:37:383775 INFO:	SERVER:infite while loop 
+07-08-2016 07:32:37:392351 INFO:	SERVER:infite while loop 
+07-08-2016 07:32:37:398969 INFO:	SERVER:infite while loop 
+07-08-2016 07:32:41:403759 INFO:	SERVER:infite while loop 
+07-08-2016 07:41:35:39177 INFO:	SERVER:Staring the server 
+07-08-2016 07:41:35:39637 INFO:	SERVER:Fetching data base path 
+07-08-2016 07:41:35:39787 DEBUG:	SERVER:Database path found 
+07-08-2016 07:41:35:40289 INFO:	SERVER:Client[ ] request for details pulsar 23 
+07-08-2016 07:41:35:40644 DEBUG:	SERVER:Getting the instance of database 
+07-08-2016 07:41:35:40775 INFO:	SERVER:Get the data for the required vehicle 
+07-08-2016 07:41:35:40902 INFO:	SERVER:Fiiling up base class vahan 
+07-08-2016 07:41:35:41671 INFO:	SERVER:Pulsar details sent over socket 
+07-08-2016 07:41:35:41872 INFO:	SERVER:Server exiting..... 
+07-08-2016 07:41:35:41983 INFO:	SERVER:initializing the inotify 
+07-08-2016 07:41:35:42090 INFO:	SERVER:Staring the thread for inotify 
+07-08-2016 07:41:35:42892 INFO:	SERVER:Adding a watch for file 
+07-08-2016 07:41:35:43096 INFO:	SERVER:infite while loop 
+07-08-2016 07:41:56:243368 INFO:	SERVER:Staring the server 
+07-08-2016 07:41:56:243924 INFO:	SERVER:Fetching data base path 
+07-08-2016 07:41:56:244805 DEBUG:	SERVER:Database path found 
+07-08-2016 07:41:56:245611 INFO:	SERVER:Client[ ] request for details pulsar 23 
+07-08-2016 07:41:56:246584 DEBUG:	SERVER:Getting the instance of database 
+07-08-2016 07:41:56:247227 INFO:	SERVER:Get the data for the required vehicle 
+07-08-2016 07:41:56:248429 INFO:	SERVER:Fiiling up base class vahan 
+07-08-2016 07:41:56:252663 INFO:	SERVER:Pulsar details sent over socket 
+07-08-2016 07:41:56:253909 INFO:	SERVER:Server exiting..... 
+07-08-2016 07:41:56:254303 INFO:	SERVER:initializing the inotify 
+07-08-2016 07:41:56:254516 INFO:	SERVER:Staring the thread for inotify 
+07-08-2016 07:41:56:256485 INFO:	SERVER:Adding a watch for file 
+07-08-2016 07:41:56:257631 INFO:	SERVER:infite while loop 
+07-08-2016 07:42:06:913294 INFO:	SERVER:file is modified 
+07-08-2016 07:42:06:913364 INFO:	SERVER:infite while loop 
+07-08-2016 07:42:10:917543 INFO:	SERVER:infite while loop 
+07-08-2016 07:42:30:469334 INFO:	SERVER:infite while loop 
+07-08-2016 07:42:30:545361 INFO:	SERVER:infite while loop 
+07-08-2016 07:42:30:550161 INFO:	SERVER:infite while loop 
+07-08-2016 07:42:34:555278 INFO:	SERVER:infite while loop 
+07-08-2016 07:42:55:43946 INFO:	SERVER:infite while loop 
+07-08-2016 07:42:59:50357 INFO:	SERVER:infite while loop 
+07-08-2016 07:43:26:209810 INFO:	SERVER:Staring the server 
+07-08-2016 07:43:26:211444 INFO:	SERVER:Fetching data base path 
+07-08-2016 07:43:26:212921 DEBUG:	SERVER:Database path found 
+07-08-2016 07:43:26:215292 INFO:	SERVER:Client[ ] request for details pulsar 23 
+07-08-2016 07:43:26:217291 DEBUG:	SERVER:Getting the instance of database 
+07-08-2016 07:43:26:217720 INFO:	SERVER:Get the data for the required vehicle 
+07-08-2016 07:43:26:218065 INFO:	SERVER:Fiiling up base class vahan 
+07-08-2016 07:43:26:222971 INFO:	SERVER:Pulsar details sent over socket 
+07-08-2016 07:43:26:223467 INFO:	SERVER:Server exiting..... 
+07-08-2016 07:43:26:223653 INFO:	SERVER:initializing the inotify 
+07-08-2016 07:43:26:223973 INFO:	SERVER:Staring the thread for inotify 
+07-08-2016 07:43:26:225249 INFO:	SERVER:Adding a watch for file 
+07-08-2016 07:43:26:227687 INFO:	SERVER:infite while loop 
+07-08-2016 07:47:25:225981 INFO:	SERVER:Staring the server 
+07-08-2016 07:47:25:227114 INFO:	SERVER:Fetching data base path 
+07-08-2016 07:47:25:228244 DEBUG:	SERVER:Database path found 
+07-08-2016 07:47:25:229670 INFO:	SERVER:Client[ ] request for details pulsar 23 
+07-08-2016 07:47:25:230439 DEBUG:	SERVER:Getting the instance of database 
+07-08-2016 07:47:25:231041 INFO:	SERVER:Get the data for the required vehicle 
+07-08-2016 07:47:25:231422 INFO:	SERVER:Fiiling up base class vahan 
+07-08-2016 07:47:25:236024 INFO:	SERVER:Pulsar details sent over socket 
+07-08-2016 07:47:25:236617 INFO:	SERVER:Server exiting..... 
+07-08-2016 07:47:25:237430 INFO:	SERVER:initializing the inotify 
+07-08-2016 07:47:25:237720 INFO:	SERVER:Staring the thread for inotify 
+07-08-2016 07:47:25:238225 INFO:	SERVER:Adding a watch for file 
+07-08-2016 07:47:25:238640 INFO:	SERVER:infite while loop 
+07-08-2016 07:47:38:755525 INFO:	SERVER:Value of i is  
+07-08-2016 07:47:38:755683 INFO:	SERVER:s %d 
+07-08-2016 07:47:38:755730 INFO:	SERVER:Value of i is  
+07-08-2016 07:47:38:755752 INFO:	SERVER:s %d 
+07-08-2016 07:47:38:755774 INFO:	SERVER:ent->mask 
+07-08-2016 07:47:38:755797 INFO:	SERVER:file is modified 
+07-08-2016 07:47:38:755836 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 07:47:38:755860 INFO:	SERVER:aring the thread for inotify 
+07-08-2016 07:47:38:755883 INFO:	SERVER:infite while loop 
+07-08-2016 07:47:38:823187 INFO:	SERVER:s %d 
+07-08-2016 07:47:38:823272 INFO:	SERVER:ngth of length is %d 
+07-08-2016 07:47:38:823296 INFO:	SERVER:infite while loop 
+07-08-2016 07:47:38:838439 INFO:	SERVER:s %d 
+07-08-2016 07:47:38:838521 INFO:	SERVER:s %d 
+07-08-2016 07:47:38:838543 INFO:	SERVER:infite while loop 
+07-08-2016 07:47:42:843767 INFO:	SERVER:s %d 
+07-08-2016 07:47:42:843887 INFO:	SERVER:s %d 
+07-08-2016 07:47:42:843917 INFO:	SERVER:infite while loop 
+07-08-2016 07:48:39:453741 INFO:	SERVER:s %d 
+07-08-2016 07:48:39:453883 INFO:	SERVER:s %d 
+07-08-2016 07:48:39:453923 INFO:	SERVER:infite while loop 
+07-08-2016 07:48:43:460589 INFO:	SERVER:s %d 
+07-08-2016 07:48:43:460926 INFO:	SERVER:s %d 
+07-08-2016 07:48:43:460988 INFO:	SERVER:infite while loop 
+07-08-2016 07:48:49:718115 INFO:	SERVER:s %d 
+07-08-2016 07:48:49:718167 INFO:	SERVER:ngth of length is %d 
+07-08-2016 07:48:49:718181 INFO:	SERVER:infite while loop 
+07-08-2016 07:48:49:743905 INFO:	SERVER:s %d 
+07-08-2016 07:48:49:743971 INFO:	SERVER:s %d 
+07-08-2016 07:48:49:743993 INFO:	SERVER:infite while loop 
+07-08-2016 07:48:54:657032 INFO:	SERVER:s %d 
+07-08-2016 07:48:54:657077 INFO:	SERVER:s %d 
+07-08-2016 07:48:54:657090 INFO:	SERVER:infite while loop 
+07-08-2016 07:48:58:668922 INFO:	SERVER:s %d 
+07-08-2016 07:48:58:668985 INFO:	SERVER:s %d 
+07-08-2016 07:48:58:668999 INFO:	SERVER:infite while loop 
+07-08-2016 07:48:58:669220 INFO:	SERVER:s %d 
+07-08-2016 07:48:58:669960 INFO:	SERVER:s %d 
+07-08-2016 07:48:58:669975 INFO:	SERVER:infite while loop 
+07-08-2016 07:49:07:385281 INFO:	SERVER:s %d 
+07-08-2016 07:49:07:385349 INFO:	SERVER:s %d 
+07-08-2016 07:49:07:385367 INFO:	SERVER:infite while loop 
+07-08-2016 07:49:08:893813 INFO:	SERVER:s %d 
+07-08-2016 07:49:08:893932 INFO:	SERVER:ngth of length is %d 
+07-08-2016 07:49:08:893981 INFO:	SERVER:infite while loop 
+07-08-2016 07:49:08:920979 INFO:	SERVER:s %d 
+07-08-2016 07:49:08:921161 INFO:	SERVER:s %d 
+07-08-2016 07:49:08:921198 INFO:	SERVER:infite while loop 
+07-08-2016 07:50:53:92379 INFO:	SERVER:Staring the server 
+07-08-2016 07:50:53:92787 INFO:	SERVER:Fetching data base path 
+07-08-2016 07:50:53:92963 DEBUG:	SERVER:Database path found 
+07-08-2016 07:50:53:95900 INFO:	SERVER:Client[ ] request for details pulsar 23 
+07-08-2016 07:50:53:96102 DEBUG:	SERVER:Getting the instance of database 
+07-08-2016 07:50:53:96148 INFO:	SERVER:Get the data for the required vehicle 
+07-08-2016 07:50:53:96224 INFO:	SERVER:Fiiling up base class vahan 
+07-08-2016 07:50:53:101153 INFO:	SERVER:Pulsar details sent over socket 
+07-08-2016 07:50:53:101236 INFO:	SERVER:Server exiting..... 
+07-08-2016 07:50:53:101254 INFO:	SERVER:initializing the inotify 
+07-08-2016 07:50:53:101267 INFO:	SERVER:Staring the thread for inotify 
+07-08-2016 07:50:53:101380 INFO:	SERVER:Adding a watch for file 
+07-08-2016 07:50:53:101416 INFO:	SERVER:infite while loop 
+07-08-2016 07:51:01:91679 INFO:	SERVER:Value of i is  
+07-08-2016 07:51:01:91729 INFO:	SERVER:s %d 
+07-08-2016 07:51:01:91743 INFO:	SERVER:Value of i is  
+07-08-2016 07:51:01:91753 INFO:	SERVER:s %d 
+07-08-2016 07:51:01:91762 INFO:	SERVER:ent->mask 
+07-08-2016 07:51:01:91771 INFO:	SERVER:file is modified 
+07-08-2016 07:51:01:91789 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 07:51:01:91799 INFO:	SERVER:aring the thread for inotify 
+07-08-2016 07:51:01:91809 INFO:	SERVER:infite while loop 
+07-08-2016 07:51:05:106066 INFO:	SERVER:Value of i is  
+07-08-2016 07:51:05:106260 INFO:	SERVER:s %d 
+07-08-2016 07:51:05:106303 INFO:	SERVER:Value of i is  
+07-08-2016 07:51:05:106328 INFO:	SERVER:s %d 
+07-08-2016 07:51:05:106351 INFO:	SERVER:ent->mask 
+07-08-2016 07:51:05:106374 INFO:	SERVER:file is modified 
+07-08-2016 07:51:05:106418 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 07:51:05:106444 INFO:	SERVER:aring the thread for inotify 
+07-08-2016 07:51:05:106467 INFO:	SERVER:infite while loop 
+07-08-2016 07:51:05:107252 INFO:	SERVER:Value of i is  
+07-08-2016 07:51:05:107315 INFO:	SERVER:s %d 
+07-08-2016 07:51:05:107342 INFO:	SERVER:Value of i is  
+07-08-2016 07:51:05:107365 INFO:	SERVER:s %d 
+07-08-2016 07:51:05:107389 INFO:	SERVER:ent->mask 
+07-08-2016 07:51:05:107413 INFO:	SERVER:file is modified 
+07-08-2016 07:51:05:107455 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 07:51:05:107481 INFO:	SERVER:aring the thread for inotify 
+07-08-2016 07:51:05:107504 INFO:	SERVER:infite while loop 
+07-08-2016 07:51:21:873960 INFO:	SERVER:Value of i is  
+07-08-2016 07:51:21:874079 INFO:	SERVER:s %d 
+07-08-2016 07:51:21:874114 INFO:	SERVER:Value of i is  
+07-08-2016 07:51:21:874138 INFO:	SERVER:s %d 
+07-08-2016 07:51:21:874161 INFO:	SERVER:ent->mask 
+07-08-2016 07:51:21:874185 INFO:	SERVER:file is modified 
+07-08-2016 07:51:21:874227 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 07:51:21:874254 INFO:	SERVER:aring the thread for inotify 
+07-08-2016 07:51:21:874277 INFO:	SERVER:infite while loop 
+07-08-2016 07:51:25:883528 INFO:	SERVER:Value of i is  
+07-08-2016 07:51:25:883622 INFO:	SERVER:s %d 
+07-08-2016 07:51:25:883648 INFO:	SERVER:Value of i is  
+07-08-2016 07:51:25:883665 INFO:	SERVER:s %d 
+07-08-2016 07:51:25:883681 INFO:	SERVER:ent->mask 
+07-08-2016 07:51:25:883698 INFO:	SERVER:file is modified 
+07-08-2016 07:51:25:883729 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 07:51:25:883747 INFO:	SERVER:aring the thread for inotify 
+07-08-2016 07:51:25:883764 INFO:	SERVER:infite while loop 
+07-08-2016 07:52:18:147749 INFO:	SERVER:Value of i is  
+07-08-2016 07:52:18:147914 INFO:	SERVER:s %d 
+07-08-2016 07:52:18:147965 INFO:	SERVER:Value of i is  
+07-08-2016 07:52:18:147990 INFO:	SERVER:s %d 
+07-08-2016 07:52:18:148014 INFO:	SERVER:ent->mask 
+07-08-2016 07:52:18:148039 INFO:	SERVER:file is modified 
+07-08-2016 07:52:18:148079 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 07:52:18:148106 INFO:	SERVER:aring the thread for inotify 
+07-08-2016 07:52:18:148130 INFO:	SERVER:infite while loop 
+07-08-2016 07:52:18:198615 INFO:	SERVER:Value of i is  
+07-08-2016 07:52:18:198678 INFO:	SERVER:ngth of length is %d 
+07-08-2016 07:52:18:198695 INFO:	SERVER:Value of i is  
+07-08-2016 07:52:18:198707 INFO:	SERVER:ngth of length is %d 
+07-08-2016 07:52:18:198719 INFO:	SERVER:ent->mask 
+07-08-2016 07:52:18:198731 INFO:	SERVER:file is modified 
+07-08-2016 07:52:18:198755 INFO:	SERVER:ENT_SIZE  
+07-08-2016 07:52:18:198768 INFO:	SERVER:aring the thread for inotify 
+07-08-2016 07:52:18:198779 INFO:	SERVER:infite while loop 
+07-08-2016 07:52:18:202740 INFO:	SERVER:Value of i is  
+07-08-2016 07:52:18:202793 INFO:	SERVER:s %d 
+07-08-2016 07:52:18:202810 INFO:	SERVER:Value of i is  
+07-08-2016 07:52:18:202822 INFO:	SERVER:s %d 
+07-08-2016 07:52:18:202875 INFO:	SERVER:ent->mask 
+07-08-2016 07:52:18:202889 INFO:	SERVER:file is modified 
+07-08-2016 07:52:18:202911 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 07:52:18:202924 INFO:	SERVER:aring the thread for inotify 
+07-08-2016 07:52:18:202936 INFO:	SERVER:infite while loop 
+07-08-2016 07:52:22:208222 INFO:	SERVER:Value of i is  
+07-08-2016 07:52:22:208314 INFO:	SERVER:s %d 
+07-08-2016 07:52:22:208337 INFO:	SERVER:Value of i is  
+07-08-2016 07:52:22:208351 INFO:	SERVER:s %d 
+07-08-2016 07:52:22:208504 INFO:	SERVER:ent->mask 
+07-08-2016 07:52:22:208530 INFO:	SERVER:file is modified 
+07-08-2016 07:52:22:208560 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 07:52:22:208576 INFO:	SERVER:aring the thread for inotify 
+07-08-2016 07:52:22:208590 INFO:	SERVER:infite while loop 
+07-08-2016 07:52:34:605302 INFO:	SERVER:Value of i is  
+07-08-2016 07:52:34:605460 INFO:	SERVER:s %d 
+07-08-2016 07:52:34:605499 INFO:	SERVER:Value of i is  
+07-08-2016 07:52:34:605595 INFO:	SERVER:s %d 
+07-08-2016 07:52:34:605632 INFO:	SERVER:ent->mask 
+07-08-2016 07:52:34:605656 INFO:	SERVER:file is modified 
+07-08-2016 07:52:34:605701 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 07:52:34:605728 INFO:	SERVER:aring the thread for inotify 
+07-08-2016 07:52:34:605751 INFO:	SERVER:infite while loop 
+07-08-2016 07:52:38:611217 INFO:	SERVER:Value of i is  
+07-08-2016 07:52:38:611339 INFO:	SERVER:s %d 
+07-08-2016 07:52:38:611372 INFO:	SERVER:Value of i is  
+07-08-2016 07:52:38:611396 INFO:	SERVER:s %d 
+07-08-2016 07:52:38:611418 INFO:	SERVER:ent->mask 
+07-08-2016 07:52:38:611442 INFO:	SERVER:file is modified 
+07-08-2016 07:52:38:611486 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 07:52:38:611513 INFO:	SERVER:aring the thread for inotify 
+07-08-2016 07:52:38:611536 INFO:	SERVER:infite while loop 
+07-08-2016 08:01:48:756361 INFO:	SERVER:Staring the server 
+07-08-2016 08:01:48:756827 INFO:	SERVER:Fetching data base path 
+07-08-2016 08:01:48:757082 DEBUG:	SERVER:Database path found 
+07-08-2016 08:01:48:760564 INFO:	SERVER:Client[ ] request for details pulsar 23 
+07-08-2016 08:01:48:761305 DEBUG:	SERVER:Getting the instance of database 
+07-08-2016 08:01:48:762219 INFO:	SERVER:Get the data for the required vehicle 
+07-08-2016 08:01:48:762843 INFO:	SERVER:Fiiling up base class vahan 
+07-08-2016 08:01:48:768064 INFO:	SERVER:Pulsar details sent over socket 
+07-08-2016 08:01:48:768440 INFO:	SERVER:Server exiting..... 
+07-08-2016 08:01:48:769498 INFO:	SERVER:initializing the inotify 
+07-08-2016 08:01:48:770350 INFO:	SERVER:Staring the thread for inotify 
+07-08-2016 08:01:48:770863 INFO:	SERVER:Adding a watch for file 
+07-08-2016 08:01:48:771112 INFO:	SERVER:infite while loop 
+07-08-2016 08:01:58:737363 INFO:	SERVER:Value of i is  
+07-08-2016 08:01:58:737537 INFO:	SERVER: pre  %d
+ 
+07-08-2016 08:01:58:737620 INFO:	SERVER:Value of i is  
+07-08-2016 08:01:58:737647 INFO:	SERVER: pre  %d
+ 
+07-08-2016 08:01:58:737671 INFO:	SERVER:ent->mask 
+07-08-2016 08:01:58:737697 INFO:	SERVER:file is modified 
+07-08-2016 08:01:58:737736 INFO:	SERVER:g the thread for inotify 
+07-08-2016 08:01:58:737760 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 08:01:58:737782 INFO:	SERVER:infite while loop 
+07-08-2016 08:01:58:763242 INFO:	SERVER:Value of i is  
+07-08-2016 08:01:58:763619 INFO:	SERVER:#### 
+07-08-2016 08:01:58:766513 INFO:	SERVER:Value of i is  
+07-08-2016 08:01:58:766902 INFO:	SERVER:#### 
+07-08-2016 08:01:58:767161 INFO:	SERVER:ent->mask 
+07-08-2016 08:01:58:767331 INFO:	SERVER:file is modified 
+07-08-2016 08:01:58:767474 INFO:	SERVER:ENT_SIZE  
+07-08-2016 08:01:58:767973 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 08:01:58:768562 INFO:	SERVER:infite while loop 
+07-08-2016 08:01:58:773651 INFO:	SERVER:Value of i is  
+07-08-2016 08:01:58:774024 INFO:	SERVER: pre  %d
+ 
+07-08-2016 08:01:58:775587 INFO:	SERVER:Value of i is  
+07-08-2016 08:01:58:775762 INFO:	SERVER: pre  %d
+ 
+07-08-2016 08:01:58:775925 INFO:	SERVER:ent->mask 
+07-08-2016 08:01:58:776128 INFO:	SERVER:file is modified 
+07-08-2016 08:01:58:776204 INFO:	SERVER:g the thread for inotify 
+07-08-2016 08:01:58:776239 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 08:01:58:776273 INFO:	SERVER:infite while loop 
+07-08-2016 08:02:02:778302 INFO:	SERVER:Value of i is  
+07-08-2016 08:02:02:778382 INFO:	SERVER: pre  %d
+ 
+07-08-2016 08:02:02:778415 INFO:	SERVER:Value of i is  
+07-08-2016 08:02:02:778431 INFO:	SERVER: pre  %d
+ 
+07-08-2016 08:02:02:778444 INFO:	SERVER:ent->mask 
+07-08-2016 08:02:02:778458 INFO:	SERVER:file is modified 
+07-08-2016 08:02:02:778481 INFO:	SERVER:g the thread for inotify 
+07-08-2016 08:02:02:778495 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 08:02:02:778508 INFO:	SERVER:infite while loop 
+07-08-2016 08:05:03:793471 INFO:	SERVER:Value of i is  
+07-08-2016 08:05:03:793532 INFO:	SERVER:#### 
+07-08-2016 08:05:03:793551 INFO:	SERVER:Value of i is  
+07-08-2016 08:05:03:793560 INFO:	SERVER:#### 
+07-08-2016 08:05:03:793568 INFO:	SERVER:ent->mask 
+07-08-2016 08:05:03:793587 INFO:	SERVER:file is modified 
+07-08-2016 08:05:03:793599 INFO:	SERVER:ENT_SIZE  
+07-08-2016 08:05:03:793607 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 08:05:03:793615 INFO:	SERVER:infite while loop 
+07-08-2016 08:06:48:91822 INFO:	SERVER:Value of i is  
+07-08-2016 08:06:48:91942 INFO:	SERVER:#### 
+07-08-2016 08:06:48:91992 INFO:	SERVER:Value of i is  
+07-08-2016 08:06:48:92018 INFO:	SERVER:#### 
+07-08-2016 08:06:48:92040 INFO:	SERVER:ent->mask 
+07-08-2016 08:06:48:92066 INFO:	SERVER:file is modified 
+07-08-2016 08:06:48:92103 INFO:	SERVER:ENT_SIZE  
+07-08-2016 08:06:48:92127 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 08:06:48:92153 INFO:	SERVER:infite while loop 
+07-08-2016 08:07:18:912575 INFO:	SERVER:Staring the server 
+07-08-2016 08:07:18:913132 INFO:	SERVER:Fetching data base path 
+07-08-2016 08:07:18:914285 DEBUG:	SERVER:Database path found 
+07-08-2016 08:07:18:915704 INFO:	SERVER:Client[ ] request for details pulsar 23 
+07-08-2016 08:07:18:916130 DEBUG:	SERVER:Getting the instance of database 
+07-08-2016 08:07:18:916684 INFO:	SERVER:Get the data for the required vehicle 
+07-08-2016 08:07:18:916878 INFO:	SERVER:Fiiling up base class vahan 
+07-08-2016 08:07:18:921371 INFO:	SERVER:Pulsar details sent over socket 
+07-08-2016 08:07:18:924354 INFO:	SERVER:Server exiting..... 
+07-08-2016 08:07:18:925015 INFO:	SERVER:initializing the inotify 
+07-08-2016 08:07:18:927620 INFO:	SERVER:Staring the thread for inotify 
+07-08-2016 08:07:18:928192 INFO:	SERVER:Adding a watch for file 
+07-08-2016 08:07:18:928368 INFO:	SERVER:infite while loop 
+07-08-2016 08:07:37:811052 INFO:	SERVER:Value of i is  
+07-08-2016 08:07:37:811171 INFO:	SERVER:#### 
+07-08-2016 08:07:37:811233 INFO:	SERVER:Value of i is  
+07-08-2016 08:07:37:811262 INFO:	SERVER:#### 
+07-08-2016 08:07:37:811285 INFO:	SERVER:ent->mask 
+07-08-2016 08:07:37:811312 INFO:	SERVER:file is modified 
+07-08-2016 08:07:37:811350 INFO:	SERVER:ENT_SIZE  
+07-08-2016 08:07:37:811373 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 08:07:37:811396 INFO:	SERVER:infite while loop 
+07-08-2016 08:07:58:158580 INFO:	SERVER:Value of i is  
+07-08-2016 08:07:58:158753 INFO:	SERVER:#### 
+07-08-2016 08:07:58:158819 INFO:	SERVER:Value of i is  
+07-08-2016 08:07:58:158846 INFO:	SERVER:#### 
+07-08-2016 08:07:58:158871 INFO:	SERVER:ent->mask 
+07-08-2016 08:07:58:158897 INFO:	SERVER:file is modified 
+07-08-2016 08:07:58:158935 INFO:	SERVER:ENT_SIZE  
+07-08-2016 08:07:58:158959 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 08:07:58:158982 INFO:	SERVER:infite while loop 
+07-08-2016 08:09:36:542661 INFO:	SERVER:Value of i is  
+07-08-2016 08:09:36:542729 INFO:	SERVER:#### 
+07-08-2016 08:09:36:542767 INFO:	SERVER:Value of i is  
+07-08-2016 08:09:36:542786 INFO:	SERVER:#### 
+07-08-2016 08:09:36:542799 INFO:	SERVER:ent->mask 
+07-08-2016 08:09:36:542813 INFO:	SERVER:file is modified 
+07-08-2016 08:09:36:542908 INFO:	SERVER:ENT_SIZE  
+07-08-2016 08:09:36:542937 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 08:09:36:542951 INFO:	SERVER:infite while loop 
+07-08-2016 08:09:37:331507 INFO:	SERVER:Value of i is  
+07-08-2016 08:09:37:331633 INFO:	SERVER:#### 
+07-08-2016 08:09:37:331685 INFO:	SERVER:Value of i is  
+07-08-2016 08:09:37:331713 INFO:	SERVER:#### 
+07-08-2016 08:09:37:331735 INFO:	SERVER:ent->mask 
+07-08-2016 08:09:37:331761 INFO:	SERVER:file is modified 
+07-08-2016 08:09:37:331800 INFO:	SERVER:ENT_SIZE  
+07-08-2016 08:09:37:331824 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 08:09:37:331847 INFO:	SERVER:infite while loop 
+07-08-2016 08:09:45:339380 INFO:	SERVER:Value of i is  
+07-08-2016 08:09:45:339451 INFO:	SERVER:#### 
+07-08-2016 08:09:45:339481 INFO:	SERVER:Value of i is  
+07-08-2016 08:09:45:339495 INFO:	SERVER:#### 
+07-08-2016 08:09:45:339506 INFO:	SERVER:ent->mask 
+07-08-2016 08:09:45:339590 INFO:	SERVER:file is modified 
+07-08-2016 08:09:45:339614 INFO:	SERVER:ENT_SIZE  
+07-08-2016 08:09:45:339626 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 08:09:45:339637 INFO:	SERVER:infite while loop 
+07-08-2016 08:09:45:340004 INFO:	SERVER:Value of i is  
+07-08-2016 08:09:45:340066 INFO:	SERVER:#### 
+07-08-2016 08:09:45:340090 INFO:	SERVER:Value of i is  
+07-08-2016 08:09:45:340102 INFO:	SERVER:#### 
+07-08-2016 08:09:45:340112 INFO:	SERVER:ent->mask 
+07-08-2016 08:09:45:340124 INFO:	SERVER:file is modified 
+07-08-2016 08:09:45:340143 INFO:	SERVER:ENT_SIZE  
+07-08-2016 08:09:45:340155 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 08:09:45:340166 INFO:	SERVER:infite while loop 
+07-08-2016 08:10:24:86187 INFO:	SERVER:Value of i is  
+07-08-2016 08:10:24:86310 INFO:	SERVER:#### 
+07-08-2016 08:10:24:86350 INFO:	SERVER:Value of i is  
+07-08-2016 08:10:24:86366 INFO:	SERVER:#### 
+07-08-2016 08:10:24:86380 INFO:	SERVER:ent->mask 
+07-08-2016 08:10:24:86396 INFO:	SERVER:file is modified 
+07-08-2016 08:10:24:86419 INFO:	SERVER:ENT_SIZE  
+07-08-2016 08:10:24:86434 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 08:10:24:86448 INFO:	SERVER:infite while loop 
+07-08-2016 08:10:24:113293 INFO:	SERVER:Value of i is  
+07-08-2016 08:10:24:113362 INFO:	SERVER:#### 
+07-08-2016 08:10:24:113391 INFO:	SERVER:Value of i is  
+07-08-2016 08:10:24:113407 INFO:	SERVER:#### 
+07-08-2016 08:10:24:113420 INFO:	SERVER:ent->mask 
+07-08-2016 08:10:24:113435 INFO:	SERVER:file is modified 
+07-08-2016 08:10:24:113457 INFO:	SERVER:ENT_SIZE  
+07-08-2016 08:10:24:113471 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 08:10:24:113484 INFO:	SERVER:infite while loop 
+07-08-2016 08:10:28:960233 INFO:	SERVER:Value of i is  
+07-08-2016 08:10:28:960275 INFO:	SERVER:#### 
+07-08-2016 08:10:28:960290 INFO:	SERVER:Value of i is  
+07-08-2016 08:10:28:960298 INFO:	SERVER:#### 
+07-08-2016 08:10:28:960303 INFO:	SERVER:ent->mask 
+07-08-2016 08:10:28:960311 INFO:	SERVER:file is modified 
+07-08-2016 08:10:28:960320 INFO:	SERVER:ENT_SIZE  
+07-08-2016 08:10:28:960326 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 08:10:28:960332 INFO:	SERVER:infite while loop 
+07-08-2016 08:10:31:687936 INFO:	SERVER:Value of i is  
+07-08-2016 08:10:31:688053 INFO:	SERVER:#### 
+07-08-2016 08:10:31:688109 INFO:	SERVER:Value of i is  
+07-08-2016 08:10:31:688136 INFO:	SERVER:#### 
+07-08-2016 08:10:31:688158 INFO:	SERVER:ent->mask 
+07-08-2016 08:10:31:688183 INFO:	SERVER:file is modified 
+07-08-2016 08:10:31:688221 INFO:	SERVER:ENT_SIZE  
+07-08-2016 08:10:31:689145 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 08:10:31:689183 INFO:	SERVER:infite while loop 
+07-08-2016 08:10:48:972284 INFO:	SERVER:Value of i is  
+07-08-2016 08:10:48:972338 INFO:	SERVER:#### 
+07-08-2016 08:10:48:972357 INFO:	SERVER:Value of i is  
+07-08-2016 08:10:48:972366 INFO:	SERVER:#### 
+07-08-2016 08:10:48:972373 INFO:	SERVER:ent->mask 
+07-08-2016 08:10:48:972381 INFO:	SERVER:file is modified 
+07-08-2016 08:10:48:972392 INFO:	SERVER:ENT_SIZE  
+07-08-2016 08:10:48:972401 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 08:10:48:972408 INFO:	SERVER:infite while loop 
+07-08-2016 08:11:10:374721 INFO:	SERVER:Value of i is  
+07-08-2016 08:11:10:374781 INFO:	SERVER:#### 
+07-08-2016 08:11:10:374804 INFO:	SERVER:Value of i is  
+07-08-2016 08:11:10:374814 INFO:	SERVER:#### 
+07-08-2016 08:11:10:374823 INFO:	SERVER:ent->mask 
+07-08-2016 08:11:10:374832 INFO:	SERVER:file is modified 
+07-08-2016 08:11:10:374847 INFO:	SERVER:ENT_SIZE  
+07-08-2016 08:11:10:374856 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 08:11:10:374864 INFO:	SERVER:infite while loop 
+07-08-2016 08:12:47:499765 INFO:	SERVER:Value of i is  
+07-08-2016 08:12:47:499846 INFO:	SERVER:#### 
+07-08-2016 08:12:47:499877 INFO:	SERVER:Value of i is  
+07-08-2016 08:12:47:499892 INFO:	SERVER:#### 
+07-08-2016 08:12:47:499905 INFO:	SERVER:ent->mask 
+07-08-2016 08:12:47:499920 INFO:	SERVER:file is modified 
+07-08-2016 08:12:47:499996 INFO:	SERVER:ENT_SIZE  
+07-08-2016 08:12:47:500013 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 08:12:47:500020 INFO:	SERVER:infite while loop 
+07-08-2016 08:13:10:37298 INFO:	SERVER:Value of i is  
+07-08-2016 08:13:10:37394 INFO:	SERVER:#### 
+07-08-2016 08:13:10:37449 INFO:	SERVER:Value of i is  
+07-08-2016 08:13:10:37863 INFO:	SERVER:#### 
+07-08-2016 08:13:10:37944 INFO:	SERVER:ent->mask 
+07-08-2016 08:13:10:38100 INFO:	SERVER:file is modified 
+07-08-2016 08:13:10:38157 INFO:	SERVER:ENT_SIZE  
+07-08-2016 08:13:10:38181 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 08:13:10:38206 INFO:	SERVER:infite while loop 
+07-08-2016 08:13:10:39917 INFO:	SERVER:Value of i is  
+07-08-2016 08:13:10:40133 INFO:	SERVER:#### 
+07-08-2016 08:13:10:40196 INFO:	SERVER:Value of i is  
+07-08-2016 08:13:10:40221 INFO:	SERVER:#### 
+07-08-2016 08:13:10:40243 INFO:	SERVER:ent->mask 
+07-08-2016 08:13:10:40268 INFO:	SERVER:file is modified 
+07-08-2016 08:13:10:40304 INFO:	SERVER:ENT_SIZE  
+07-08-2016 08:13:10:40327 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 08:13:10:40350 INFO:	SERVER:infite while loop 
+07-08-2016 08:13:10:140373 INFO:	SERVER:Value of i is  
+07-08-2016 08:13:10:140434 INFO:	SERVER:#### 
+07-08-2016 08:13:10:140463 INFO:	SERVER:Value of i is  
+07-08-2016 08:13:10:140500 INFO:	SERVER:#### 
+07-08-2016 08:13:10:140521 INFO:	SERVER:ent->mask 
+07-08-2016 08:13:10:140534 INFO:	SERVER:file is modified 
+07-08-2016 08:13:10:140550 INFO:	SERVER:ENT_SIZE  
+07-08-2016 08:13:10:140559 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 08:13:10:140568 INFO:	SERVER:infite while loop 
+07-08-2016 08:13:10:143955 INFO:	SERVER:Value of i is  
+07-08-2016 08:13:10:144197 INFO:	SERVER:#### 
+07-08-2016 08:13:10:144237 INFO:	SERVER:Value of i is  
+07-08-2016 08:13:10:144253 INFO:	SERVER:#### 
+07-08-2016 08:13:10:144264 INFO:	SERVER:ent->mask 
+07-08-2016 08:13:10:144276 INFO:	SERVER:file is modified 
+07-08-2016 08:13:10:144292 INFO:	SERVER:ENT_SIZE  
+07-08-2016 08:13:10:144301 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 08:13:10:144310 INFO:	SERVER:infite while loop 
+07-08-2016 08:13:18:342779 INFO:	SERVER:Value of i is  
+07-08-2016 08:13:18:342840 INFO:	SERVER:#### 
+07-08-2016 08:13:18:342863 INFO:	SERVER:Value of i is  
+07-08-2016 08:13:18:342873 INFO:	SERVER:#### 
+07-08-2016 08:13:18:342881 INFO:	SERVER:ent->mask 
+07-08-2016 08:13:18:342890 INFO:	SERVER:file is modified 
+07-08-2016 08:13:18:342904 INFO:	SERVER:ENT_SIZE  
+07-08-2016 08:13:18:342913 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 08:13:18:342921 INFO:	SERVER:infite while loop 
+07-08-2016 08:13:27:225731 INFO:	SERVER:Value of i is  
+07-08-2016 08:13:27:225837 INFO:	SERVER:#### 
+07-08-2016 08:13:27:225856 INFO:	SERVER:Value of i is  
+07-08-2016 08:13:27:225863 INFO:	SERVER:#### 
+07-08-2016 08:13:27:225869 INFO:	SERVER:ent->mask 
+07-08-2016 08:13:27:225875 INFO:	SERVER:file is modified 
+07-08-2016 08:13:27:225885 INFO:	SERVER:ENT_SIZE  
+07-08-2016 08:13:27:225891 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 08:13:27:225897 INFO:	SERVER:infite while loop 
+07-08-2016 08:13:29:505143 INFO:	SERVER:Value of i is  
+07-08-2016 08:13:29:505268 INFO:	SERVER:#### 
+07-08-2016 08:13:29:505322 INFO:	SERVER:Value of i is  
+07-08-2016 08:13:29:505350 INFO:	SERVER:#### 
+07-08-2016 08:13:29:505372 INFO:	SERVER:ent->mask 
+07-08-2016 08:13:29:505398 INFO:	SERVER:file is modified 
+07-08-2016 08:13:29:505435 INFO:	SERVER:ENT_SIZE  
+07-08-2016 08:13:29:505459 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 08:13:29:505481 INFO:	SERVER:infite while loop 
+07-08-2016 08:13:30:961101 INFO:	SERVER:Value of i is  
+07-08-2016 08:13:30:961418 INFO:	SERVER:#### 
+07-08-2016 08:13:30:961506 INFO:	SERVER:Value of i is  
+07-08-2016 08:13:30:961534 INFO:	SERVER:#### 
+07-08-2016 08:13:30:961556 INFO:	SERVER:ent->mask 
+07-08-2016 08:13:30:961582 INFO:	SERVER:file is modified 
+07-08-2016 08:13:30:961620 INFO:	SERVER:ENT_SIZE  
+07-08-2016 08:13:30:961644 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 08:13:30:961667 INFO:	SERVER:infite while loop 
+07-08-2016 08:13:30:621 INFO:	SERVER:Value of i is  
+07-08-2016 08:13:30:684 INFO:	SERVER:#### 
+07-08-2016 08:13:30:710 INFO:	SERVER:Value of i is  
+07-08-2016 08:13:30:723 INFO:	SERVER:#### 
+07-08-2016 08:13:30:1143 INFO:	SERVER:ent->mask 
+07-08-2016 08:13:30:1186 INFO:	SERVER:file is modified 
+07-08-2016 08:13:30:1209 INFO:	SERVER:ENT_SIZE  
+07-08-2016 08:13:30:1221 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 08:13:30:1334 INFO:	SERVER:infite while loop 
+07-08-2016 08:13:34:580707 INFO:	SERVER:Value of i is  
+07-08-2016 08:13:34:580815 INFO:	SERVER:#### 
+07-08-2016 08:13:34:580851 INFO:	SERVER:Value of i is  
+07-08-2016 08:13:34:580867 INFO:	SERVER:#### 
+07-08-2016 08:13:34:580882 INFO:	SERVER:ent->mask 
+07-08-2016 08:13:34:580897 INFO:	SERVER:file is modified 
+07-08-2016 08:13:34:580920 INFO:	SERVER:ENT_SIZE  
+07-08-2016 08:13:34:580935 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 08:13:34:580948 INFO:	SERVER:infite while loop 
+07-08-2016 08:13:34:581359 INFO:	SERVER:Value of i is  
+07-08-2016 08:13:34:581397 INFO:	SERVER:#### 
+07-08-2016 08:13:34:581423 INFO:	SERVER:Value of i is  
+07-08-2016 08:13:34:581438 INFO:	SERVER:#### 
+07-08-2016 08:13:34:581451 INFO:	SERVER:ent->mask 
+07-08-2016 08:13:34:581466 INFO:	SERVER:file is modified 
+07-08-2016 08:13:34:581486 INFO:	SERVER:ENT_SIZE  
+07-08-2016 08:13:34:581499 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 08:13:34:581512 INFO:	SERVER:infite while loop 
+07-08-2016 08:13:34:581788 INFO:	SERVER:Value of i is  
+07-08-2016 08:13:34:581820 INFO:	SERVER:#### 
+07-08-2016 08:13:34:581843 INFO:	SERVER:Value of i is  
+07-08-2016 08:13:34:581858 INFO:	SERVER:#### 
+07-08-2016 08:13:34:581870 INFO:	SERVER:ent->mask 
+07-08-2016 08:13:34:581884 INFO:	SERVER:file is modified 
+07-08-2016 08:13:34:581905 INFO:	SERVER:ENT_SIZE  
+07-08-2016 08:13:34:581918 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 08:13:34:581930 INFO:	SERVER:infite while loop 
+07-08-2016 08:13:34:583258 INFO:	SERVER:Value of i is  
+07-08-2016 08:13:34:583329 INFO:	SERVER:#### 
+07-08-2016 08:13:34:583360 INFO:	SERVER:Value of i is  
+07-08-2016 08:13:34:583375 INFO:	SERVER:#### 
+07-08-2016 08:13:34:583387 INFO:	SERVER:ent->mask 
+07-08-2016 08:13:34:583400 INFO:	SERVER:file is modified 
+07-08-2016 08:13:34:583421 INFO:	SERVER:ENT_SIZE  
+07-08-2016 08:13:34:583434 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 08:13:34:583447 INFO:	SERVER:infite while loop 
+07-08-2016 08:13:34:583786 INFO:	SERVER:Value of i is  
+07-08-2016 08:13:34:583819 INFO:	SERVER:#### 
+07-08-2016 08:13:34:583842 INFO:	SERVER:Value of i is  
+07-08-2016 08:13:34:583855 INFO:	SERVER:#### 
+07-08-2016 08:13:34:583868 INFO:	SERVER:ent->mask 
+07-08-2016 08:13:34:583882 INFO:	SERVER:file is modified 
+07-08-2016 08:13:34:583902 INFO:	SERVER:ENT_SIZE  
+07-08-2016 08:13:34:583916 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 08:13:34:583928 INFO:	SERVER:infite while loop 
+07-08-2016 08:13:34:584456 INFO:	SERVER:Value of i is  
+07-08-2016 08:13:34:584511 INFO:	SERVER:#### 
+07-08-2016 08:13:34:584543 INFO:	SERVER:Value of i is  
+07-08-2016 08:13:34:584558 INFO:	SERVER:#### 
+07-08-2016 08:13:34:584571 INFO:	SERVER:ent->mask 
+07-08-2016 08:13:34:584585 INFO:	SERVER:file is modified 
+07-08-2016 08:13:34:584607 INFO:	SERVER:ENT_SIZE  
+07-08-2016 08:13:34:584620 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 08:13:34:584633 INFO:	SERVER:infite while loop 
+07-08-2016 08:13:34:585276 INFO:	SERVER:Value of i is  
+07-08-2016 08:13:34:585326 INFO:	SERVER:#### 
+07-08-2016 08:13:34:585355 INFO:	SERVER:Value of i is  
+07-08-2016 08:13:34:585370 INFO:	SERVER:#### 
+07-08-2016 08:13:34:585382 INFO:	SERVER:ent->mask 
+07-08-2016 08:13:34:585397 INFO:	SERVER:file is modified 
+07-08-2016 08:13:34:585418 INFO:	SERVER:ENT_SIZE  
+07-08-2016 08:13:34:585431 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 08:13:34:585444 INFO:	SERVER:infite while loop 
+07-08-2016 08:13:34:585688 INFO:	SERVER:Value of i is  
+07-08-2016 08:13:34:585908 INFO:	SERVER:#### 
+07-08-2016 08:13:34:585939 INFO:	SERVER:Value of i is  
+07-08-2016 08:13:34:585954 INFO:	SERVER:#### 
+07-08-2016 08:13:34:585967 INFO:	SERVER:ent->mask 
+07-08-2016 08:13:34:585982 INFO:	SERVER:file is modified 
+07-08-2016 08:13:34:586002 INFO:	SERVER:ENT_SIZE  
+07-08-2016 08:13:34:586016 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 08:13:34:586029 INFO:	SERVER:infite while loop 
+07-08-2016 08:13:34:586308 INFO:	SERVER:Value of i is  
+07-08-2016 08:13:34:586359 INFO:	SERVER:#### 
+07-08-2016 08:13:34:586384 INFO:	SERVER:Value of i is  
+07-08-2016 08:13:34:586398 INFO:	SERVER:#### 
+07-08-2016 08:13:34:586410 INFO:	SERVER:ent->mask 
+07-08-2016 08:13:34:586424 INFO:	SERVER:file is modified 
+07-08-2016 08:13:34:586445 INFO:	SERVER:ENT_SIZE  
+07-08-2016 08:13:34:586458 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 08:13:34:586470 INFO:	SERVER:infite while loop 
+07-08-2016 08:13:34:587022 INFO:	SERVER:Value of i is  
+07-08-2016 08:13:34:587058 INFO:	SERVER:#### 
+07-08-2016 08:13:34:587082 INFO:	SERVER:Value of i is  
+07-08-2016 08:13:34:587096 INFO:	SERVER:#### 
+07-08-2016 08:13:34:587108 INFO:	SERVER:ent->mask 
+07-08-2016 08:13:34:587122 INFO:	SERVER:file is modified 
+07-08-2016 08:13:34:587143 INFO:	SERVER:ENT_SIZE  
+07-08-2016 08:13:34:587155 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 08:13:34:587169 INFO:	SERVER:infite while loop 
+07-08-2016 08:13:34:587437 INFO:	SERVER:Value of i is  
+07-08-2016 08:13:34:587519 INFO:	SERVER:#### 
+07-08-2016 08:13:34:587988 INFO:	SERVER:Value of i is  
+07-08-2016 08:13:34:588191 INFO:	SERVER:#### 
+07-08-2016 08:13:34:588531 INFO:	SERVER:ent->mask 
+07-08-2016 08:13:34:589274 INFO:	SERVER:file is modified 
+07-08-2016 08:13:34:589695 INFO:	SERVER:ENT_SIZE  
+07-08-2016 08:13:34:590364 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 08:13:34:590632 INFO:	SERVER:infite while loop 
+07-08-2016 08:13:34:590883 INFO:	SERVER:Value of i is  
+07-08-2016 08:13:34:591086 INFO:	SERVER:#### 
+07-08-2016 08:13:34:591659 INFO:	SERVER:Value of i is  
+07-08-2016 08:13:34:591947 INFO:	SERVER:#### 
+07-08-2016 08:13:34:592028 INFO:	SERVER:ent->mask 
+07-08-2016 08:13:34:592143 INFO:	SERVER:file is modified 
+07-08-2016 08:13:34:592595 INFO:	SERVER:ENT_SIZE  
+07-08-2016 08:13:34:592677 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 08:13:34:592915 INFO:	SERVER:infite while loop 
+07-08-2016 08:13:34:594805 INFO:	SERVER:Value of i is  
+07-08-2016 08:13:34:595046 INFO:	SERVER:#### 
+07-08-2016 08:13:34:595653 INFO:	SERVER:Value of i is  
+07-08-2016 08:13:34:595932 INFO:	SERVER:#### 
+07-08-2016 08:13:34:596015 INFO:	SERVER:ent->mask 
+07-08-2016 08:13:34:596130 INFO:	SERVER:file is modified 
+07-08-2016 08:13:34:596565 INFO:	SERVER:ENT_SIZE  
+07-08-2016 08:13:34:596653 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 08:13:34:596888 INFO:	SERVER:infite while loop 
+07-08-2016 08:13:34:597142 INFO:	SERVER:Value of i is  
+07-08-2016 08:13:34:597446 INFO:	SERVER:#### 
+07-08-2016 08:13:34:597894 INFO:	SERVER:Value of i is  
+07-08-2016 08:13:34:598166 INFO:	SERVER:#### 
+07-08-2016 08:13:34:598413 INFO:	SERVER:ent->mask 
+07-08-2016 08:13:34:598871 INFO:	SERVER:file is modified 
+07-08-2016 08:13:34:599183 INFO:	SERVER:ENT_SIZE  
+07-08-2016 08:13:34:599301 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 08:13:34:599368 INFO:	SERVER:infite while loop 
+07-08-2016 08:13:46:992919 INFO:	SERVER:Value of i is  
+07-08-2016 08:13:46:992991 INFO:	SERVER:#### 
+07-08-2016 08:13:46:993030 INFO:	SERVER:Value of i is  
+07-08-2016 08:13:46:993048 INFO:	SERVER:#### 
+07-08-2016 08:13:46:993065 INFO:	SERVER:ent->mask 
+07-08-2016 08:13:46:993083 INFO:	SERVER:file is modified 
+07-08-2016 08:13:46:993111 INFO:	SERVER:ENT_SIZE  
+07-08-2016 08:13:46:993128 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 08:13:46:993145 INFO:	SERVER:infite while loop 
+07-08-2016 08:13:54:734700 INFO:	SERVER:Value of i is  
+07-08-2016 08:13:54:734737 INFO:	SERVER: pre  %d
+ 
+07-08-2016 08:13:54:734753 INFO:	SERVER:Value of i is  
+07-08-2016 08:13:54:734760 INFO:	SERVER: pre  %d
+ 
+07-08-2016 08:13:54:734765 INFO:	SERVER:ent->mask 
+07-08-2016 08:13:54:734772 INFO:	SERVER:file is modified 
+07-08-2016 08:13:54:734781 INFO:	SERVER:g the thread for inotify 
+07-08-2016 08:13:54:734787 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 08:13:54:734793 INFO:	SERVER:infite while loop 
+07-08-2016 08:14:06:624522 INFO:	SERVER:Value of i is  
+07-08-2016 08:14:06:624614 INFO:	SERVER:#### 
+07-08-2016 08:14:06:624669 INFO:	SERVER:Value of i is  
+07-08-2016 08:14:06:624696 INFO:	SERVER:#### 
+07-08-2016 08:14:06:624739 INFO:	SERVER:ent->mask 
+07-08-2016 08:14:06:624767 INFO:	SERVER:file is modified 
+07-08-2016 08:14:06:624806 INFO:	SERVER:ENT_SIZE  
+07-08-2016 08:14:06:624829 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 08:14:06:624852 INFO:	SERVER:infite while loop 
+07-08-2016 08:14:17:512021 INFO:	SERVER:Value of i is  
+07-08-2016 08:14:17:512065 INFO:	SERVER:#### 
+07-08-2016 08:14:17:512079 INFO:	SERVER:Value of i is  
+07-08-2016 08:14:17:512086 INFO:	SERVER:#### 
+07-08-2016 08:14:17:512092 INFO:	SERVER:ent->mask 
+07-08-2016 08:14:17:512098 INFO:	SERVER:file is modified 
+07-08-2016 08:14:17:512107 INFO:	SERVER:ENT_SIZE  
+07-08-2016 08:14:17:512113 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 08:14:17:512118 INFO:	SERVER:infite while loop 
+07-08-2016 08:14:27:142836 INFO:	SERVER:Value of i is  
+07-08-2016 08:14:27:142881 INFO:	SERVER:#### 
+07-08-2016 08:14:27:142903 INFO:	SERVER:Value of i is  
+07-08-2016 08:14:27:142915 INFO:	SERVER:#### 
+07-08-2016 08:14:27:142924 INFO:	SERVER:ent->mask 
+07-08-2016 08:14:27:142934 INFO:	SERVER:file is modified 
+07-08-2016 08:14:27:142950 INFO:	SERVER:ENT_SIZE  
+07-08-2016 08:14:27:142959 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 08:14:27:142969 INFO:	SERVER:infite while loop 
+07-08-2016 08:14:34:145630 INFO:	SERVER:Value of i is  
+07-08-2016 08:14:34:145702 INFO:	SERVER:#### 
+07-08-2016 08:14:34:145744 INFO:	SERVER:Value of i is  
+07-08-2016 08:14:34:145765 INFO:	SERVER:#### 
+07-08-2016 08:14:34:145783 INFO:	SERVER:ent->mask 
+07-08-2016 08:14:34:145803 INFO:	SERVER:file is modified 
+07-08-2016 08:14:34:145832 INFO:	SERVER:ENT_SIZE  
+07-08-2016 08:14:34:145851 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 08:14:34:145869 INFO:	SERVER:infite while loop 
+07-08-2016 08:17:19:129165 INFO:	SERVER:Value of i is  
+07-08-2016 08:17:19:129209 INFO:	SERVER:#### 
+07-08-2016 08:17:19:129229 INFO:	SERVER:Value of i is  
+07-08-2016 08:17:19:129238 INFO:	SERVER:#### 
+07-08-2016 08:17:19:129245 INFO:	SERVER:ent->mask 
+07-08-2016 08:17:19:129252 INFO:	SERVER:file is modified 
+07-08-2016 08:17:19:129263 INFO:	SERVER:ENT_SIZE  
+07-08-2016 08:17:19:129272 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 08:17:19:129278 INFO:	SERVER:infite while loop 
+07-08-2016 08:17:22:195451 INFO:	SERVER:Value of i is  
+07-08-2016 08:17:22:195660 INFO:	SERVER:#### 
+07-08-2016 08:17:22:195718 INFO:	SERVER:Value of i is  
+07-08-2016 08:17:22:195745 INFO:	SERVER:#### 
+07-08-2016 08:17:22:195768 INFO:	SERVER:ent->mask 
+07-08-2016 08:17:22:195793 INFO:	SERVER:file is modified 
+07-08-2016 08:17:22:195831 INFO:	SERVER:ENT_SIZE  
+07-08-2016 08:17:22:195855 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 08:17:22:195878 INFO:	SERVER:infite while loop 
+07-08-2016 08:17:24:417720 INFO:	SERVER:Value of i is  
+07-08-2016 08:17:24:419139 INFO:	SERVER:#### 
+07-08-2016 08:17:24:422480 INFO:	SERVER:Value of i is  
+07-08-2016 08:17:24:423332 INFO:	SERVER:#### 
+07-08-2016 08:17:24:423660 INFO:	SERVER:ent->mask 
+07-08-2016 08:17:24:425011 INFO:	SERVER:file is modified 
+07-08-2016 08:17:24:427825 INFO:	SERVER:ENT_SIZE  
+07-08-2016 08:17:24:428028 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 08:17:24:428150 INFO:	SERVER:infite while loop 
+07-08-2016 08:17:26:85847 INFO:	SERVER:Value of i is  
+07-08-2016 08:17:26:86215 INFO:	SERVER:#### 
+07-08-2016 08:17:26:88184 INFO:	SERVER:Value of i is  
+07-08-2016 08:17:26:89700 INFO:	SERVER:#### 
+07-08-2016 08:17:26:92026 INFO:	SERVER:ent->mask 
+07-08-2016 08:17:26:92643 INFO:	SERVER:file is modified 
+07-08-2016 08:17:26:95448 INFO:	SERVER:ENT_SIZE  
+07-08-2016 08:17:26:96329 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 08:17:26:96581 INFO:	SERVER:infite while loop 
+07-08-2016 08:17:26:145640 INFO:	SERVER:Value of i is  
+07-08-2016 08:17:26:146131 INFO:	SERVER:#### 
+07-08-2016 08:17:26:147352 INFO:	SERVER:Value of i is  
+07-08-2016 08:17:26:147634 INFO:	SERVER:#### 
+07-08-2016 08:17:26:147700 INFO:	SERVER:ent->mask 
+07-08-2016 08:17:26:147807 INFO:	SERVER:file is modified 
+07-08-2016 08:17:26:147862 INFO:	SERVER:ENT_SIZE  
+07-08-2016 08:17:26:147891 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 08:17:26:147945 INFO:	SERVER:infite while loop 
+07-08-2016 08:17:26:148954 INFO:	SERVER:Value of i is  
+07-08-2016 08:17:26:149493 INFO:	SERVER:#### 
+07-08-2016 08:17:26:150141 INFO:	SERVER:Value of i is  
+07-08-2016 08:17:26:150296 INFO:	SERVER:#### 
+07-08-2016 08:17:26:150365 INFO:	SERVER:ent->mask 
+07-08-2016 08:17:26:150447 INFO:	SERVER:file is modified 
+07-08-2016 08:17:26:151757 INFO:	SERVER:ENT_SIZE  
+07-08-2016 08:17:26:152103 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 08:17:26:152328 INFO:	SERVER:infite while loop 
+07-08-2016 08:17:27:832196 INFO:	SERVER:Value of i is  
+07-08-2016 08:17:27:832428 INFO:	SERVER:#### 
+07-08-2016 08:17:27:832485 INFO:	SERVER:Value of i is  
+07-08-2016 08:17:27:832512 INFO:	SERVER:#### 
+07-08-2016 08:17:27:832535 INFO:	SERVER:ent->mask 
+07-08-2016 08:17:27:832560 INFO:	SERVER:file is modified 
+07-08-2016 08:17:27:832597 INFO:	SERVER:ENT_SIZE  
+07-08-2016 08:17:27:832621 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 08:17:27:832643 INFO:	SERVER:infite while loop 
+07-08-2016 08:17:29:688739 INFO:	SERVER:Value of i is  
+07-08-2016 08:17:29:688794 INFO:	SERVER:#### 
+07-08-2016 08:17:29:688821 INFO:	SERVER:Value of i is  
+07-08-2016 08:17:29:688836 INFO:	SERVER:#### 
+07-08-2016 08:17:29:688847 INFO:	SERVER:ent->mask 
+07-08-2016 08:17:29:688860 INFO:	SERVER:file is modified 
+07-08-2016 08:17:29:688878 INFO:	SERVER:ENT_SIZE  
+07-08-2016 08:17:29:688890 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 08:17:29:688901 INFO:	SERVER:infite while loop 
+07-08-2016 08:17:29:781906 INFO:	SERVER:Value of i is  
+07-08-2016 08:17:29:781992 INFO:	SERVER:#### 
+07-08-2016 08:17:29:782026 INFO:	SERVER:Value of i is  
+07-08-2016 08:17:29:782035 INFO:	SERVER:#### 
+07-08-2016 08:17:29:782040 INFO:	SERVER:ent->mask 
+07-08-2016 08:17:29:782047 INFO:	SERVER:file is modified 
+07-08-2016 08:17:29:782056 INFO:	SERVER:ENT_SIZE  
+07-08-2016 08:17:29:782062 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 08:17:29:782068 INFO:	SERVER:infite while loop 
+07-08-2016 08:17:29:908436 INFO:	SERVER:Value of i is  
+07-08-2016 08:17:29:908617 INFO:	SERVER:#### 
+07-08-2016 08:17:29:908677 INFO:	SERVER:Value of i is  
+07-08-2016 08:17:29:908707 INFO:	SERVER:#### 
+07-08-2016 08:17:29:908731 INFO:	SERVER:ent->mask 
+07-08-2016 08:17:29:908757 INFO:	SERVER:file is modified 
+07-08-2016 08:17:29:908791 INFO:	SERVER:ENT_SIZE  
+07-08-2016 08:17:29:908814 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 08:17:29:908835 INFO:	SERVER:infite while loop 
+07-08-2016 08:17:34:323613 INFO:	SERVER:Value of i is  
+07-08-2016 08:17:34:323665 INFO:	SERVER:#### 
+07-08-2016 08:17:34:323687 INFO:	SERVER:Value of i is  
+07-08-2016 08:17:34:323697 INFO:	SERVER:#### 
+07-08-2016 08:17:34:323706 INFO:	SERVER:ent->mask 
+07-08-2016 08:17:34:323714 INFO:	SERVER:file is modified 
+07-08-2016 08:17:34:323727 INFO:	SERVER:ENT_SIZE  
+07-08-2016 08:17:34:323734 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 08:17:34:323741 INFO:	SERVER:infite while loop 
+07-08-2016 08:17:34:324013 INFO:	SERVER:Value of i is  
+07-08-2016 08:17:34:324044 INFO:	SERVER:#### 
+07-08-2016 08:17:34:324117 INFO:	SERVER:Value of i is  
+07-08-2016 08:17:34:324135 INFO:	SERVER:#### 
+07-08-2016 08:17:34:324146 INFO:	SERVER:ent->mask 
+07-08-2016 08:17:34:324157 INFO:	SERVER:file is modified 
+07-08-2016 08:17:34:324173 INFO:	SERVER:ENT_SIZE  
+07-08-2016 08:17:34:324184 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 08:17:34:324193 INFO:	SERVER:infite while loop 
+07-08-2016 08:17:34:324408 INFO:	SERVER:Value of i is  
+07-08-2016 08:17:34:324432 INFO:	SERVER:#### 
+07-08-2016 08:17:34:324450 INFO:	SERVER:Value of i is  
+07-08-2016 08:17:34:324460 INFO:	SERVER:#### 
+07-08-2016 08:17:34:324469 INFO:	SERVER:ent->mask 
+07-08-2016 08:17:34:324479 INFO:	SERVER:file is modified 
+07-08-2016 08:17:34:324494 INFO:	SERVER:ENT_SIZE  
+07-08-2016 08:17:34:324505 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 08:17:34:324516 INFO:	SERVER:infite while loop 
+07-08-2016 08:17:34:324804 INFO:	SERVER:Value of i is  
+07-08-2016 08:17:34:324832 INFO:	SERVER:#### 
+07-08-2016 08:17:34:324845 INFO:	SERVER:Value of i is  
+07-08-2016 08:17:34:324851 INFO:	SERVER:#### 
+07-08-2016 08:17:34:324857 INFO:	SERVER:ent->mask 
+07-08-2016 08:17:34:324864 INFO:	SERVER:file is modified 
+07-08-2016 08:17:34:324873 INFO:	SERVER:ENT_SIZE  
+07-08-2016 08:17:34:324879 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 08:17:34:324884 INFO:	SERVER:infite while loop 
+07-08-2016 08:17:34:324999 INFO:	SERVER:Value of i is  
+07-08-2016 08:17:34:325019 INFO:	SERVER:#### 
+07-08-2016 08:17:34:325036 INFO:	SERVER:Value of i is  
+07-08-2016 08:17:34:325141 INFO:	SERVER:#### 
+07-08-2016 08:17:34:325169 INFO:	SERVER:ent->mask 
+07-08-2016 08:17:34:325186 INFO:	SERVER:file is modified 
+07-08-2016 08:17:34:325200 INFO:	SERVER:ENT_SIZE  
+07-08-2016 08:17:34:325209 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 08:17:34:325219 INFO:	SERVER:infite while loop 
+07-08-2016 08:17:34:325451 INFO:	SERVER:Value of i is  
+07-08-2016 08:17:34:325476 INFO:	SERVER:#### 
+07-08-2016 08:17:34:325495 INFO:	SERVER:Value of i is  
+07-08-2016 08:17:34:325508 INFO:	SERVER:#### 
+07-08-2016 08:17:34:325518 INFO:	SERVER:ent->mask 
+07-08-2016 08:17:34:325528 INFO:	SERVER:file is modified 
+07-08-2016 08:17:34:325541 INFO:	SERVER:ENT_SIZE  
+07-08-2016 08:17:34:325741 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 08:17:34:325764 INFO:	SERVER:infite while loop 
+07-08-2016 08:17:34:325930 INFO:	SERVER:Value of i is  
+07-08-2016 08:17:34:325952 INFO:	SERVER:#### 
+07-08-2016 08:17:34:326819 INFO:	SERVER:Value of i is  
+07-08-2016 08:17:34:327152 INFO:	SERVER:#### 
+07-08-2016 08:17:34:327330 INFO:	SERVER:ent->mask 
+07-08-2016 08:17:34:327490 INFO:	SERVER:file is modified 
+07-08-2016 08:17:34:327752 INFO:	SERVER:ENT_SIZE  
+07-08-2016 08:17:34:327870 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 08:17:34:328072 INFO:	SERVER:infite while loop 
+07-08-2016 08:17:34:328176 INFO:	SERVER:Value of i is  
+07-08-2016 08:17:34:328228 INFO:	SERVER:#### 
+07-08-2016 08:17:34:328393 INFO:	SERVER:Value of i is  
+07-08-2016 08:17:34:328448 INFO:	SERVER:#### 
+07-08-2016 08:17:34:328494 INFO:	SERVER:ent->mask 
+07-08-2016 08:17:34:328968 INFO:	SERVER:file is modified 
+07-08-2016 08:17:34:329314 INFO:	SERVER:ENT_SIZE  
+07-08-2016 08:17:34:329425 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 08:17:34:329633 INFO:	SERVER:infite while loop 
+07-08-2016 08:17:34:329840 INFO:	SERVER:Value of i is  
+07-08-2016 08:17:34:329901 INFO:	SERVER:#### 
+07-08-2016 08:17:34:330216 INFO:	SERVER:Value of i is  
+07-08-2016 08:17:34:330293 INFO:	SERVER:#### 
+07-08-2016 08:17:34:330324 INFO:	SERVER:ent->mask 
+07-08-2016 08:17:34:330370 INFO:	SERVER:file is modified 
+07-08-2016 08:17:34:330474 INFO:	SERVER:ENT_SIZE  
+07-08-2016 08:17:34:330509 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 08:17:34:330536 INFO:	SERVER:infite while loop 
+07-08-2016 08:17:34:330795 INFO:	SERVER:Value of i is  
+07-08-2016 08:17:34:330840 INFO:	SERVER:#### 
+07-08-2016 08:17:34:330951 INFO:	SERVER:Value of i is  
+07-08-2016 08:17:34:330980 INFO:	SERVER:#### 
+07-08-2016 08:17:34:331005 INFO:	SERVER:ent->mask 
+07-08-2016 08:17:34:331543 INFO:	SERVER:file is modified 
+07-08-2016 08:17:34:331739 INFO:	SERVER:ENT_SIZE  
+07-08-2016 08:17:34:331849 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 08:17:34:331954 INFO:	SERVER:infite while loop 
+07-08-2016 08:17:34:334149 INFO:	SERVER:Value of i is  
+07-08-2016 08:17:34:334310 INFO:	SERVER:#### 
+07-08-2016 08:17:34:334412 INFO:	SERVER:Value of i is  
+07-08-2016 08:17:34:334456 INFO:	SERVER:#### 
+07-08-2016 08:17:34:334488 INFO:	SERVER:ent->mask 
+07-08-2016 08:17:34:334522 INFO:	SERVER:file is modified 
+07-08-2016 08:17:34:334752 INFO:	SERVER:ENT_SIZE  
+07-08-2016 08:17:34:334815 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 08:17:34:334849 INFO:	SERVER:infite while loop 
+07-08-2016 08:17:53:146501 INFO:	SERVER:Value of i is  
+07-08-2016 08:17:53:146672 INFO:	SERVER:#### 
+07-08-2016 08:17:53:146692 INFO:	SERVER:Value of i is  
+07-08-2016 08:17:53:146699 INFO:	SERVER:#### 
+07-08-2016 08:17:53:146706 INFO:	SERVER:ent->mask 
+07-08-2016 08:17:53:146810 INFO:	SERVER:file is modified 
+07-08-2016 08:17:53:146828 INFO:	SERVER:ENT_SIZE  
+07-08-2016 08:17:53:146834 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 08:17:53:146840 INFO:	SERVER:infite while loop 
+07-08-2016 08:17:56:650476 INFO:	SERVER:Value of i is  
+07-08-2016 08:17:56:650593 INFO:	SERVER: pre  %d
+ 
+07-08-2016 08:17:56:650631 INFO:	SERVER:Value of i is  
+07-08-2016 08:17:56:650649 INFO:	SERVER: pre  %d
+ 
+07-08-2016 08:17:56:650665 INFO:	SERVER:ent->mask 
+07-08-2016 08:17:56:650680 INFO:	SERVER:file is modified 
+07-08-2016 08:17:56:650703 INFO:	SERVER:g the thread for inotify 
+07-08-2016 08:17:56:650716 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 08:17:56:650729 INFO:	SERVER:infite while loop 
+07-08-2016 08:18:13:899178 INFO:	SERVER:Staring the server 
+07-08-2016 08:18:13:900110 INFO:	SERVER:Fetching data base path 
+07-08-2016 08:18:13:903855 DEBUG:	SERVER:Database path found 
+07-08-2016 08:18:13:905459 INFO:	SERVER:Client[ ] request for details pulsar 23 
+07-08-2016 08:18:13:905903 DEBUG:	SERVER:Getting the instance of database 
+07-08-2016 08:18:13:906369 INFO:	SERVER:Get the data for the required vehicle 
+07-08-2016 08:18:13:906968 INFO:	SERVER:Fiiling up base class vahan 
+07-08-2016 08:18:13:911235 INFO:	SERVER:Pulsar details sent over socket 
+07-08-2016 08:18:13:912303 INFO:	SERVER:Server exiting..... 
+07-08-2016 08:18:13:912657 INFO:	SERVER:initializing the inotify 
+07-08-2016 08:18:13:912966 INFO:	SERVER:Staring the thread for inotify 
+07-08-2016 08:18:13:913519 INFO:	SERVER:Adding a watch for file 
+07-08-2016 08:18:13:913984 INFO:	SERVER:infite while loop 
+07-08-2016 08:18:37:630135 INFO:	SERVER:Staring the server 
+07-08-2016 08:18:37:643909 INFO:	SERVER:Fetching data base path 
+07-08-2016 08:18:37:702429 DEBUG:	SERVER:Database path found 
+07-08-2016 08:18:37:748203 INFO:	SERVER:Client[ ] request for details pulsar 23 
+07-08-2016 08:18:37:748504 DEBUG:	SERVER:Getting the instance of database 
+07-08-2016 08:18:37:748625 INFO:	SERVER:Get the data for the required vehicle 
+07-08-2016 08:18:37:748737 INFO:	SERVER:Fiiling up base class vahan 
+07-08-2016 08:18:37:752698 INFO:	SERVER:Pulsar details sent over socket 
+07-08-2016 08:18:37:753218 INFO:	SERVER:Server exiting..... 
+07-08-2016 08:18:37:753371 INFO:	SERVER:initializing the inotify 
+07-08-2016 08:18:37:753752 INFO:	SERVER:Staring the thread for inotify 
+07-08-2016 08:18:37:754249 INFO:	SERVER:Adding a watch for file 
+07-08-2016 08:18:37:754771 INFO:	SERVER:infite while loop 
+07-08-2016 08:18:49:739237 INFO:	SERVER:Value of i is  
+07-08-2016 08:18:49:739333 INFO:	SERVER:#### 
+07-08-2016 08:18:49:739396 INFO:	SERVER:Value of i is  
+07-08-2016 08:18:49:739424 INFO:	SERVER:#### 
+07-08-2016 08:18:49:739447 INFO:	SERVER:ent->mask 
+07-08-2016 08:18:49:745079 INFO:	SERVER:file is modified 
+07-08-2016 08:18:49:745192 INFO:	SERVER:ENT_SIZE  
+07-08-2016 08:18:49:745219 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 08:18:49:745243 INFO:	SERVER:infite while loop 
+07-08-2016 08:18:52:787971 INFO:	SERVER:#### 
+07-08-2016 08:18:52:788675 INFO:	SERVER:#### 
+07-08-2016 08:18:52:788739 INFO:	SERVER:infite while loop 
+07-08-2016 08:18:54:86292 INFO:	SERVER:#### 
+07-08-2016 08:18:54:86333 INFO:	SERVER:#### 
+07-08-2016 08:18:54:86341 INFO:	SERVER:infite while loop 
+07-08-2016 08:18:54:97362 INFO:	SERVER:#### 
+07-08-2016 08:18:54:97404 INFO:	SERVER:#### 
+07-08-2016 08:18:54:97412 INFO:	SERVER:infite while loop 
+07-08-2016 08:18:58:332762 INFO:	SERVER:#### 
+07-08-2016 08:18:58:332820 INFO:	SERVER:#### 
+07-08-2016 08:18:58:332834 INFO:	SERVER:infite while loop 
+07-08-2016 08:18:58:333060 INFO:	SERVER:#### 
+07-08-2016 08:18:58:333085 INFO:	SERVER:#### 
+07-08-2016 08:18:58:333095 INFO:	SERVER:infite while loop 
+07-08-2016 08:18:58:333276 INFO:	SERVER:#### 
+07-08-2016 08:18:58:333300 INFO:	SERVER:#### 
+07-08-2016 08:18:58:333310 INFO:	SERVER:infite while loop 
+07-08-2016 08:18:58:333486 INFO:	SERVER:#### 
+07-08-2016 08:18:58:333510 INFO:	SERVER:#### 
+07-08-2016 08:18:58:333521 INFO:	SERVER:infite while loop 
+07-08-2016 08:18:58:333663 INFO:	SERVER:#### 
+07-08-2016 08:18:58:333684 INFO:	SERVER:#### 
+07-08-2016 08:18:58:333695 INFO:	SERVER:infite while loop 
+07-08-2016 08:18:58:333859 INFO:	SERVER:#### 
+07-08-2016 08:18:58:333883 INFO:	SERVER:#### 
+07-08-2016 08:18:58:333893 INFO:	SERVER:infite while loop 
+07-08-2016 08:18:58:334008 INFO:	SERVER:#### 
+07-08-2016 08:18:58:334030 INFO:	SERVER:#### 
+07-08-2016 08:18:58:334039 INFO:	SERVER:infite while loop 
+07-08-2016 08:18:58:334192 INFO:	SERVER:#### 
+07-08-2016 08:18:58:334216 INFO:	SERVER:#### 
+07-08-2016 08:18:58:334226 INFO:	SERVER:infite while loop 
+07-08-2016 08:18:58:334338 INFO:	SERVER:#### 
+07-08-2016 08:18:58:334359 INFO:	SERVER:#### 
+07-08-2016 08:18:58:334368 INFO:	SERVER:infite while loop 
+07-08-2016 08:18:58:334525 INFO:	SERVER:#### 
+07-08-2016 08:18:58:334549 INFO:	SERVER:#### 
+07-08-2016 08:18:58:334559 INFO:	SERVER:infite while loop 
+07-08-2016 08:18:58:334697 INFO:	SERVER:#### 
+07-08-2016 08:18:58:334720 INFO:	SERVER:#### 
+07-08-2016 08:18:58:334730 INFO:	SERVER:infite while loop 
+07-08-2016 08:18:58:334877 INFO:	SERVER:#### 
+07-08-2016 08:18:58:334900 INFO:	SERVER:#### 
+07-08-2016 08:18:58:334910 INFO:	SERVER:infite while loop 
+07-08-2016 08:18:58:335023 INFO:	SERVER:#### 
+07-08-2016 08:18:58:335044 INFO:	SERVER:#### 
+07-08-2016 08:18:58:335054 INFO:	SERVER:infite while loop 
+07-08-2016 08:18:58:335238 INFO:	SERVER:#### 
+07-08-2016 08:18:58:335262 INFO:	SERVER:#### 
+07-08-2016 08:18:58:335273 INFO:	SERVER:infite while loop 
+07-08-2016 08:18:58:335392 INFO:	SERVER:#### 
+07-08-2016 08:18:58:335413 INFO:	SERVER:#### 
+07-08-2016 08:18:58:335423 INFO:	SERVER:infite while loop 
+07-08-2016 08:18:58:335569 INFO:	SERVER:#### 
+07-08-2016 08:18:58:335593 INFO:	SERVER:#### 
+07-08-2016 08:18:58:335629 INFO:	SERVER:infite while loop 
+07-08-2016 08:18:58:335765 INFO:	SERVER:#### 
+07-08-2016 08:18:58:335786 INFO:	SERVER:#### 
+07-08-2016 08:18:58:335796 INFO:	SERVER:infite while loop 
+07-08-2016 08:18:58:336037 INFO:	SERVER:#### 
+07-08-2016 08:18:58:336062 INFO:	SERVER:#### 
+07-08-2016 08:18:58:336071 INFO:	SERVER:infite while loop 
+07-08-2016 08:18:58:336274 INFO:	SERVER:#### 
+07-08-2016 08:18:58:336311 INFO:	SERVER:#### 
+07-08-2016 08:18:58:336323 INFO:	SERVER:infite while loop 
+07-08-2016 08:18:58:336454 INFO:	SERVER:#### 
+07-08-2016 08:18:58:336477 INFO:	SERVER:#### 
+07-08-2016 08:18:58:336487 INFO:	SERVER:infite while loop 
+07-08-2016 08:18:58:337372 INFO:	SERVER:#### 
+07-08-2016 08:18:58:337575 INFO:	SERVER:#### 
+07-08-2016 08:18:58:337832 INFO:	SERVER:infite while loop 
+07-08-2016 08:18:58:338048 INFO:	SERVER:#### 
+07-08-2016 08:18:58:338096 INFO:	SERVER:#### 
+07-08-2016 08:18:58:338171 INFO:	SERVER:infite while loop 
+07-08-2016 08:18:58:338304 INFO:	SERVER:#### 
+07-08-2016 08:18:58:338339 INFO:	SERVER:#### 
+07-08-2016 08:18:58:338363 INFO:	SERVER:infite while loop 
+07-08-2016 08:18:58:338547 INFO:	SERVER:#### 
+07-08-2016 08:18:58:338587 INFO:	SERVER:#### 
+07-08-2016 08:18:58:338676 INFO:	SERVER:infite while loop 
+07-08-2016 08:18:58:338814 INFO:	SERVER:#### 
+07-08-2016 08:18:58:338849 INFO:	SERVER:#### 
+07-08-2016 08:18:58:338872 INFO:	SERVER:infite while loop 
+07-08-2016 08:18:58:340022 INFO:	SERVER:#### 
+07-08-2016 08:18:58:340049 INFO:	SERVER:#### 
+07-08-2016 08:18:58:340061 INFO:	SERVER:infite while loop 
+07-08-2016 08:18:58:340235 INFO:	SERVER:#### 
+07-08-2016 08:18:58:340259 INFO:	SERVER:#### 
+07-08-2016 08:18:58:340268 INFO:	SERVER:infite while loop 
+07-08-2016 08:18:58:340422 INFO:	SERVER:#### 
+07-08-2016 08:18:58:340446 INFO:	SERVER:#### 
+07-08-2016 08:18:58:340456 INFO:	SERVER:infite while loop 
+07-08-2016 08:18:58:340568 INFO:	SERVER:#### 
+07-08-2016 08:18:58:340621 INFO:	SERVER:#### 
+07-08-2016 08:18:58:340660 INFO:	SERVER:infite while loop 
+07-08-2016 08:18:58:340814 INFO:	SERVER:#### 
+07-08-2016 08:18:58:340851 INFO:	SERVER:#### 
+07-08-2016 08:18:58:340875 INFO:	SERVER:infite while loop 
+07-08-2016 08:18:58:340986 INFO:	SERVER:#### 
+07-08-2016 08:18:58:341021 INFO:	SERVER:#### 
+07-08-2016 08:18:58:341045 INFO:	SERVER:infite while loop 
+07-08-2016 08:18:58:341136 INFO:	SERVER:#### 
+07-08-2016 08:18:58:341186 INFO:	SERVER:#### 
+07-08-2016 08:18:58:341222 INFO:	SERVER:infite while loop 
+07-08-2016 08:18:58:341282 INFO:	SERVER:#### 
+07-08-2016 08:18:58:341309 INFO:	SERVER:#### 
+07-08-2016 08:18:58:341330 INFO:	SERVER:infite while loop 
+07-08-2016 08:18:58:341379 INFO:	SERVER:#### 
+07-08-2016 08:18:58:341406 INFO:	SERVER:#### 
+07-08-2016 08:18:58:341427 INFO:	SERVER:infite while loop 
+07-08-2016 08:18:58:341477 INFO:	SERVER:#### 
+07-08-2016 08:18:58:341503 INFO:	SERVER:#### 
+07-08-2016 08:18:58:341525 INFO:	SERVER:infite while loop 
+07-08-2016 08:18:58:341574 INFO:	SERVER:#### 
+07-08-2016 08:18:58:341600 INFO:	SERVER:#### 
+07-08-2016 08:18:58:341822 INFO:	SERVER:infite while loop 
+07-08-2016 08:18:58:342092 INFO:	SERVER:#### 
+07-08-2016 08:18:58:342440 INFO:	SERVER:#### 
+07-08-2016 08:18:58:342560 INFO:	SERVER:infite while loop 
+07-08-2016 08:18:58:342970 INFO:	SERVER:#### 
+07-08-2016 08:18:58:343013 INFO:	SERVER:#### 
+07-08-2016 08:18:58:343038 INFO:	SERVER:infite while loop 
+07-08-2016 08:18:58:343158 INFO:	SERVER:#### 
+07-08-2016 08:18:58:343194 INFO:	SERVER:#### 
+07-08-2016 08:18:58:343218 INFO:	SERVER:infite while loop 
+07-08-2016 08:18:58:343469 INFO:	SERVER:#### 
+07-08-2016 08:18:58:343511 INFO:	SERVER:#### 
+07-08-2016 08:18:58:343535 INFO:	SERVER:infite while loop 
+07-08-2016 08:18:58:344832 INFO:	SERVER:#### 
+07-08-2016 08:18:58:344886 INFO:	SERVER:#### 
+07-08-2016 08:18:58:344913 INFO:	SERVER:infite while loop 
+07-08-2016 08:19:16:218776 INFO:	SERVER:Staring the server 
+07-08-2016 08:19:16:219839 INFO:	SERVER:Fetching data base path 
+07-08-2016 08:19:16:220786 DEBUG:	SERVER:Database path found 
+07-08-2016 08:19:16:226752 INFO:	SERVER:Client[ ] request for details pulsar 23 
+07-08-2016 08:19:16:227709 DEBUG:	SERVER:Getting the instance of database 
+07-08-2016 08:19:16:228837 INFO:	SERVER:Get the data for the required vehicle 
+07-08-2016 08:19:16:229819 INFO:	SERVER:Fiiling up base class vahan 
+07-08-2016 08:19:16:239715 INFO:	SERVER:Pulsar details sent over socket 
+07-08-2016 08:19:16:242902 INFO:	SERVER:Server exiting..... 
+07-08-2016 08:19:16:243305 INFO:	SERVER:initializing the inotify 
+07-08-2016 08:19:16:243738 INFO:	SERVER:Staring the thread for inotify 
+07-08-2016 08:19:16:244228 INFO:	SERVER:Adding a watch for file 
+07-08-2016 08:19:16:244386 INFO:	SERVER:infite while loop 
+07-08-2016 08:19:30:633231 INFO:	SERVER:Value of i is  
+07-08-2016 08:19:30:633290 INFO:	SERVER:#### 
+07-08-2016 08:19:30:633317 INFO:	SERVER:Value of i is  
+07-08-2016 08:19:30:633325 INFO:	SERVER:#### 
+07-08-2016 08:19:30:633331 INFO:	SERVER:ent->mask 
+07-08-2016 08:19:30:633339 INFO:	SERVER:file is modified 
+07-08-2016 08:19:30:633350 INFO:	SERVER:ENT_SIZE  
+07-08-2016 08:19:30:633357 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 08:19:30:633400 INFO:	SERVER:infite while loop 
+07-08-2016 08:19:30:633747 INFO:	SERVER:#### 
+07-08-2016 08:19:30:633777 INFO:	SERVER:#### 
+07-08-2016 08:19:30:633792 INFO:	SERVER:infite while loop 
+07-08-2016 08:19:30:633951 INFO:	SERVER:#### 
+07-08-2016 08:19:30:633977 INFO:	SERVER:#### 
+07-08-2016 08:19:30:633987 INFO:	SERVER:infite while loop 
+07-08-2016 08:19:30:634145 INFO:	SERVER:#### 
+07-08-2016 08:19:30:634168 INFO:	SERVER:#### 
+07-08-2016 08:19:30:634181 INFO:	SERVER:infite while loop 
+07-08-2016 08:19:30:634240 INFO:	SERVER:#### 
+07-08-2016 08:19:30:634259 INFO:	SERVER:#### 
+07-08-2016 08:19:30:634269 INFO:	SERVER:infite while loop 
+07-08-2016 08:19:30:634349 INFO:	SERVER:#### 
+07-08-2016 08:19:30:634537 INFO:	SERVER:#### 
+07-08-2016 08:19:30:634557 INFO:	SERVER:infite while loop 
+07-08-2016 08:19:30:634633 INFO:	SERVER:#### 
+07-08-2016 08:19:30:634655 INFO:	SERVER:#### 
+07-08-2016 08:19:30:634669 INFO:	SERVER:infite while loop 
+07-08-2016 08:19:30:634733 INFO:	SERVER:#### 
+07-08-2016 08:19:30:634755 INFO:	SERVER:#### 
+07-08-2016 08:19:30:634768 INFO:	SERVER:infite while loop 
+07-08-2016 08:19:30:634826 INFO:	SERVER:#### 
+07-08-2016 08:19:30:634846 INFO:	SERVER:#### 
+07-08-2016 08:19:30:634858 INFO:	SERVER:infite while loop 
+07-08-2016 08:19:30:635660 INFO:	SERVER:#### 
+07-08-2016 08:19:30:635711 INFO:	SERVER:#### 
+07-08-2016 08:19:30:635742 INFO:	SERVER:infite while loop 
+07-08-2016 08:19:30:635782 INFO:	SERVER:#### 
+07-08-2016 08:19:30:635810 INFO:	SERVER:#### 
+07-08-2016 08:19:30:635838 INFO:	SERVER:infite while loop 
+07-08-2016 08:19:30:635982 INFO:	SERVER:#### 
+07-08-2016 08:19:30:636020 INFO:	SERVER:#### 
+07-08-2016 08:19:30:636049 INFO:	SERVER:infite while loop 
+07-08-2016 08:19:30:636087 INFO:	SERVER:#### 
+07-08-2016 08:19:30:636115 INFO:	SERVER:#### 
+07-08-2016 08:19:30:636143 INFO:	SERVER:infite while loop 
+07-08-2016 08:19:30:636179 INFO:	SERVER:#### 
+07-08-2016 08:19:30:636206 INFO:	SERVER:#### 
+07-08-2016 08:19:30:636233 INFO:	SERVER:infite while loop 
+07-08-2016 08:19:30:636274 INFO:	SERVER:#### 
+07-08-2016 08:19:30:636301 INFO:	SERVER:#### 
+07-08-2016 08:19:30:636329 INFO:	SERVER:infite while loop 
+07-08-2016 08:19:30:636501 INFO:	SERVER:#### 
+07-08-2016 08:19:30:636545 INFO:	SERVER:#### 
+07-08-2016 08:19:30:636575 INFO:	SERVER:infite while loop 
+07-08-2016 08:19:30:636618 INFO:	SERVER:#### 
+07-08-2016 08:19:30:636647 INFO:	SERVER:#### 
+07-08-2016 08:19:30:636675 INFO:	SERVER:infite while loop 
+07-08-2016 08:19:30:636719 INFO:	SERVER:#### 
+07-08-2016 08:19:30:636748 INFO:	SERVER:#### 
+07-08-2016 08:19:30:636775 INFO:	SERVER:infite while loop 
+07-08-2016 08:19:30:636811 INFO:	SERVER:#### 
+07-08-2016 08:19:30:636841 INFO:	SERVER:#### 
+07-08-2016 08:19:30:636976 INFO:	SERVER:infite while loop 
+07-08-2016 08:19:30:637042 INFO:	SERVER:#### 
+07-08-2016 08:19:30:637075 INFO:	SERVER:#### 
+07-08-2016 08:19:30:637104 INFO:	SERVER:infite while loop 
+07-08-2016 08:19:30:637221 INFO:	SERVER:#### 
+07-08-2016 08:19:30:637259 INFO:	SERVER:#### 
+07-08-2016 08:19:30:637288 INFO:	SERVER:infite while loop 
+07-08-2016 08:19:30:637330 INFO:	SERVER:#### 
+07-08-2016 08:19:30:637358 INFO:	SERVER:#### 
+07-08-2016 08:19:30:637541 INFO:	SERVER:infite while loop 
+07-08-2016 08:19:30:637583 INFO:	SERVER:#### 
+07-08-2016 08:19:30:637612 INFO:	SERVER:#### 
+07-08-2016 08:19:30:637640 INFO:	SERVER:infite while loop 
+07-08-2016 08:19:30:637677 INFO:	SERVER:#### 
+07-08-2016 08:19:30:637704 INFO:	SERVER:#### 
+07-08-2016 08:19:30:637732 INFO:	SERVER:infite while loop 
+07-08-2016 08:19:30:637769 INFO:	SERVER:#### 
+07-08-2016 08:19:30:637797 INFO:	SERVER:#### 
+07-08-2016 08:19:30:637823 INFO:	SERVER:infite while loop 
+07-08-2016 08:19:30:639239 INFO:	SERVER:#### 
+07-08-2016 08:19:30:639290 INFO:	SERVER:#### 
+07-08-2016 08:19:30:639297 INFO:	SERVER:infite while loop 
+07-08-2016 08:19:30:639543 INFO:	SERVER:#### 
+07-08-2016 08:19:30:639560 INFO:	SERVER:#### 
+07-08-2016 08:19:30:639567 INFO:	SERVER:infite while loop 
+07-08-2016 08:19:30:639644 INFO:	SERVER:#### 
+07-08-2016 08:19:30:639659 INFO:	SERVER:#### 
+07-08-2016 08:19:30:639665 INFO:	SERVER:infite while loop 
+07-08-2016 08:19:30:639735 INFO:	SERVER:#### 
+07-08-2016 08:19:30:639749 INFO:	SERVER:#### 
+07-08-2016 08:19:30:639756 INFO:	SERVER:infite while loop 
+07-08-2016 08:19:30:639826 INFO:	SERVER:#### 
+07-08-2016 08:19:30:639840 INFO:	SERVER:#### 
+07-08-2016 08:19:30:639846 INFO:	SERVER:infite while loop 
+07-08-2016 08:19:30:640048 INFO:	SERVER:#### 
+07-08-2016 08:19:30:640068 INFO:	SERVER:#### 
+07-08-2016 08:19:30:640074 INFO:	SERVER:infite while loop 
+07-08-2016 08:19:30:640146 INFO:	SERVER:#### 
+07-08-2016 08:19:30:640159 INFO:	SERVER:#### 
+07-08-2016 08:19:30:640166 INFO:	SERVER:infite while loop 
+07-08-2016 08:19:30:640234 INFO:	SERVER:#### 
+07-08-2016 08:19:30:640247 INFO:	SERVER:#### 
+07-08-2016 08:19:30:640253 INFO:	SERVER:infite while loop 
+07-08-2016 08:19:30:640320 INFO:	SERVER:#### 
+07-08-2016 08:19:30:640334 INFO:	SERVER:#### 
+07-08-2016 08:19:30:640340 INFO:	SERVER:infite while loop 
+07-08-2016 08:19:30:640497 INFO:	SERVER:#### 
+07-08-2016 08:19:30:640514 INFO:	SERVER:#### 
+07-08-2016 08:19:30:640520 INFO:	SERVER:infite while loop 
+07-08-2016 08:19:30:640595 INFO:	SERVER:#### 
+07-08-2016 08:19:30:640609 INFO:	SERVER:#### 
+07-08-2016 08:19:30:640616 INFO:	SERVER:infite while loop 
+07-08-2016 08:19:30:640687 INFO:	SERVER:#### 
+07-08-2016 08:19:30:640716 INFO:	SERVER:#### 
+07-08-2016 08:19:30:640723 INFO:	SERVER:infite while loop 
+07-08-2016 08:19:30:640792 INFO:	SERVER:#### 
+07-08-2016 08:19:30:640806 INFO:	SERVER:#### 
+07-08-2016 08:19:30:640812 INFO:	SERVER:infite while loop 
+07-08-2016 08:19:30:640884 INFO:	SERVER:#### 
+07-08-2016 08:19:30:640898 INFO:	SERVER:#### 
+07-08-2016 08:19:30:640904 INFO:	SERVER:infite while loop 
+07-08-2016 08:19:30:641486 INFO:	SERVER:#### 
+07-08-2016 08:19:30:641528 INFO:	SERVER:#### 
+07-08-2016 08:19:30:641537 INFO:	SERVER:infite while loop 
+07-08-2016 08:19:30:641958 INFO:	SERVER:#### 
+07-08-2016 08:19:30:641993 INFO:	SERVER:#### 
+07-08-2016 08:19:30:642005 INFO:	SERVER:infite while loop 
+07-08-2016 08:19:30:642336 INFO:	SERVER:#### 
+07-08-2016 08:19:30:642359 INFO:	SERVER:#### 
+07-08-2016 08:19:30:642462 INFO:	SERVER:infite while loop 
+07-08-2016 08:19:30:642558 INFO:	SERVER:#### 
+07-08-2016 08:19:30:642574 INFO:	SERVER:#### 
+07-08-2016 08:19:30:642580 INFO:	SERVER:infite while loop 
+07-08-2016 08:19:30:642655 INFO:	SERVER:#### 
+07-08-2016 08:19:30:642669 INFO:	SERVER:#### 
+07-08-2016 08:19:30:642675 INFO:	SERVER:infite while loop 
+07-08-2016 08:19:30:642907 INFO:	SERVER:#### 
+07-08-2016 08:19:30:642927 INFO:	SERVER:#### 
+07-08-2016 08:19:30:642933 INFO:	SERVER:infite while loop 
+07-08-2016 08:19:30:643180 INFO:	SERVER:#### 
+07-08-2016 08:19:30:643200 INFO:	SERVER:#### 
+07-08-2016 08:19:30:643207 INFO:	SERVER:infite while loop 
+07-08-2016 08:19:41:383405 INFO:	SERVER:#### 
+07-08-2016 08:19:41:383489 INFO:	SERVER:#### 
+07-08-2016 08:19:41:383505 INFO:	SERVER:infite while loop 
+07-08-2016 08:20:17:620419 INFO:	SERVER:#### 
+07-08-2016 08:20:17:620657 INFO:	SERVER: pre  %d
+ 
+07-08-2016 08:20:17:620718 INFO:	SERVER:#### 
+07-08-2016 08:20:17:620742 INFO:	SERVER: pre  %d
+ 
+07-08-2016 08:20:17:620759 INFO:	SERVER:event->mask 
+07-08-2016 08:20:17:620786 INFO:	SERVER:event->length 
+07-08-2016 08:20:17:620804 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 08:20:17:620820 INFO:	SERVER:infite while loop 
+07-08-2016 08:21:06:826371 INFO:	SERVER: pre  %d
+ 
+07-08-2016 08:21:06:826420 INFO:	SERVER:#### 
+07-08-2016 08:21:06:826429 INFO:	SERVER:infite while loop 
+07-08-2016 08:21:13:622231 INFO:	SERVER: pre  %d
+ 
+07-08-2016 08:21:13:622270 INFO:	SERVER:#### 
+07-08-2016 08:21:13:622281 INFO:	SERVER:infite while loop 
+07-08-2016 08:21:20:835399 INFO:	SERVER: pre  %d
+ 
+07-08-2016 08:21:20:835471 INFO:	SERVER:#### 
+07-08-2016 08:21:20:835480 INFO:	SERVER:infite while loop 
+07-08-2016 08:21:20:835675 INFO:	SERVER: pre  %d
+ 
+07-08-2016 08:21:20:835693 INFO:	SERVER:#### 
+07-08-2016 08:21:20:835704 INFO:	SERVER:infite while loop 
+07-08-2016 08:21:20:835823 INFO:	SERVER: pre  %d
+ 
+07-08-2016 08:21:20:835846 INFO:	SERVER:#### 
+07-08-2016 08:21:20:835857 INFO:	SERVER:infite while loop 
+07-08-2016 08:21:20:836043 INFO:	SERVER: pre  %d
+ 
+07-08-2016 08:21:20:836069 INFO:	SERVER:#### 
+07-08-2016 08:21:20:836080 INFO:	SERVER:infite while loop 
+07-08-2016 08:21:20:836194 INFO:	SERVER: pre  %d
+ 
+07-08-2016 08:21:20:836216 INFO:	SERVER:#### 
+07-08-2016 08:21:20:836228 INFO:	SERVER:infite while loop 
+07-08-2016 08:21:20:836607 INFO:	SERVER: pre  %d
+ 
+07-08-2016 08:21:20:836634 INFO:	SERVER:#### 
+07-08-2016 08:21:20:836641 INFO:	SERVER:infite while loop 
+07-08-2016 08:21:20:836748 INFO:	SERVER: pre  %d
+ 
+07-08-2016 08:21:20:836765 INFO:	SERVER:#### 
+07-08-2016 08:21:20:836773 INFO:	SERVER:infite while loop 
+07-08-2016 08:21:20:837017 INFO:	SERVER: pre  %d
+ 
+07-08-2016 08:21:20:837046 INFO:	SERVER:#### 
+07-08-2016 08:21:20:837057 INFO:	SERVER:infite while loop 
+07-08-2016 08:21:20:837191 INFO:	SERVER: pre  %d
+ 
+07-08-2016 08:21:20:837215 INFO:	SERVER:#### 
+07-08-2016 08:21:20:837226 INFO:	SERVER:infite while loop 
+07-08-2016 08:21:20:837359 INFO:	SERVER: pre  %d
+ 
+07-08-2016 08:21:20:837383 INFO:	SERVER:#### 
+07-08-2016 08:21:20:837397 INFO:	SERVER:infite while loop 
+07-08-2016 08:21:20:837859 INFO:	SERVER: pre  %d
+ 
+07-08-2016 08:21:20:837902 INFO:	SERVER:#### 
+07-08-2016 08:21:20:838197 INFO:	SERVER:infite while loop 
+07-08-2016 08:21:20:838392 INFO:	SERVER: pre  %d
+ 
+07-08-2016 08:21:20:838637 INFO:	SERVER:#### 
+07-08-2016 08:21:20:838665 INFO:	SERVER:infite while loop 
+07-08-2016 08:21:20:838864 INFO:	SERVER: pre  %d
+ 
+07-08-2016 08:21:20:838887 INFO:	SERVER:#### 
+07-08-2016 08:21:20:838898 INFO:	SERVER:infite while loop 
+07-08-2016 08:21:20:839353 INFO:	SERVER: pre  %d
+ 
+07-08-2016 08:21:20:839394 INFO:	SERVER:#### 
+07-08-2016 08:21:20:839406 INFO:	SERVER:infite while loop 
+07-08-2016 08:21:20:839730 INFO:	SERVER: pre  %d
+ 
+07-08-2016 08:21:20:839759 INFO:	SERVER:#### 
+07-08-2016 08:21:20:839770 INFO:	SERVER:infite while loop 
+07-08-2016 08:21:20:839883 INFO:	SERVER: pre  %d
+ 
+07-08-2016 08:21:20:839903 INFO:	SERVER:#### 
+07-08-2016 08:21:20:840009 INFO:	SERVER:infite while loop 
+07-08-2016 08:21:20:840159 INFO:	SERVER: pre  %d
+ 
+07-08-2016 08:21:20:840177 INFO:	SERVER:#### 
+07-08-2016 08:21:20:840184 INFO:	SERVER:infite while loop 
+07-08-2016 08:21:20:843906 INFO:	SERVER: pre  %d
+ 
+07-08-2016 08:21:20:844063 INFO:	SERVER:#### 
+07-08-2016 08:21:20:844089 INFO:	SERVER:infite while loop 
+07-08-2016 08:21:20:844443 INFO:	SERVER: pre  %d
+ 
+07-08-2016 08:21:20:844706 INFO:	SERVER:#### 
+07-08-2016 08:21:20:844849 INFO:	SERVER:infite while loop 
+07-08-2016 08:21:20:845103 INFO:	SERVER: pre  %d
+ 
+07-08-2016 08:21:20:845149 INFO:	SERVER:#### 
+07-08-2016 08:21:20:845174 INFO:	SERVER:infite while loop 
+07-08-2016 08:21:20:845303 INFO:	SERVER: pre  %d
+ 
+07-08-2016 08:21:20:845341 INFO:	SERVER:#### 
+07-08-2016 08:21:20:845368 INFO:	SERVER:infite while loop 
+07-08-2016 08:21:20:845540 INFO:	SERVER: pre  %d
+ 
+07-08-2016 08:21:20:845575 INFO:	SERVER:#### 
+07-08-2016 08:21:20:845599 INFO:	SERVER:infite while loop 
+07-08-2016 08:21:20:845715 INFO:	SERVER: pre  %d
+ 
+07-08-2016 08:21:20:845754 INFO:	SERVER:#### 
+07-08-2016 08:21:20:845780 INFO:	SERVER:infite while loop 
+07-08-2016 08:21:20:845957 INFO:	SERVER: pre  %d
+ 
+07-08-2016 08:21:20:845992 INFO:	SERVER:#### 
+07-08-2016 08:21:20:846016 INFO:	SERVER:infite while loop 
+07-08-2016 08:21:20:846134 INFO:	SERVER: pre  %d
+ 
+07-08-2016 08:21:20:846171 INFO:	SERVER:#### 
+07-08-2016 08:21:20:846198 INFO:	SERVER:infite while loop 
+07-08-2016 08:21:20:848156 INFO:	SERVER: pre  %d
+ 
+07-08-2016 08:21:20:848223 INFO:	SERVER:#### 
+07-08-2016 08:21:20:848238 INFO:	SERVER:infite while loop 
+07-08-2016 08:21:20:848661 INFO:	SERVER: pre  %d
+ 
+07-08-2016 08:21:20:848718 INFO:	SERVER:#### 
+07-08-2016 08:21:20:848735 INFO:	SERVER:infite while loop 
+07-08-2016 08:21:20:848973 INFO:	SERVER: pre  %d
+ 
+07-08-2016 08:21:20:849005 INFO:	SERVER:#### 
+07-08-2016 08:21:20:849015 INFO:	SERVER:infite while loop 
+07-08-2016 08:21:20:849155 INFO:	SERVER: pre  %d
+ 
+07-08-2016 08:21:20:849183 INFO:	SERVER:#### 
+07-08-2016 08:21:20:849195 INFO:	SERVER:infite while loop 
+07-08-2016 08:21:20:849371 INFO:	SERVER: pre  %d
+ 
+07-08-2016 08:21:20:849395 INFO:	SERVER:#### 
+07-08-2016 08:21:20:849406 INFO:	SERVER:infite while loop 
+07-08-2016 08:21:20:849543 INFO:	SERVER: pre  %d
+ 
+07-08-2016 08:21:20:849566 INFO:	SERVER:#### 
+07-08-2016 08:21:20:849579 INFO:	SERVER:infite while loop 
+07-08-2016 08:21:20:849726 INFO:	SERVER: pre  %d
+ 
+07-08-2016 08:21:20:849749 INFO:	SERVER:#### 
+07-08-2016 08:21:20:849759 INFO:	SERVER:infite while loop 
+07-08-2016 08:21:20:849903 INFO:	SERVER: pre  %d
+ 
+07-08-2016 08:21:20:850001 INFO:	SERVER:#### 
+07-08-2016 08:21:20:850015 INFO:	SERVER:infite while loop 
+07-08-2016 08:21:20:850128 INFO:	SERVER: pre  %d
+ 
+07-08-2016 08:21:20:850150 INFO:	SERVER:#### 
+07-08-2016 08:21:20:850163 INFO:	SERVER:infite while loop 
+07-08-2016 08:21:20:850274 INFO:	SERVER: pre  %d
+ 
+07-08-2016 08:21:20:850297 INFO:	SERVER:#### 
+07-08-2016 08:21:20:850309 INFO:	SERVER:infite while loop 
+07-08-2016 08:21:20:850482 INFO:	SERVER: pre  %d
+ 
+07-08-2016 08:21:20:850503 INFO:	SERVER:#### 
+07-08-2016 08:21:20:850514 INFO:	SERVER:infite while loop 
+07-08-2016 08:21:20:850683 INFO:	SERVER: pre  %d
+ 
+07-08-2016 08:21:20:850705 INFO:	SERVER:#### 
+07-08-2016 08:21:20:850715 INFO:	SERVER:infite while loop 
+07-08-2016 08:21:20:850865 INFO:	SERVER: pre  %d
+ 
+07-08-2016 08:21:20:850899 INFO:	SERVER:#### 
+07-08-2016 08:21:20:850910 INFO:	SERVER:infite while loop 
+07-08-2016 08:21:20:851101 INFO:	SERVER: pre  %d
+ 
+07-08-2016 08:21:20:851124 INFO:	SERVER:#### 
+07-08-2016 08:21:20:851136 INFO:	SERVER:infite while loop 
+07-08-2016 08:21:20:851199 INFO:	SERVER: pre  %d
+ 
+07-08-2016 08:21:20:851218 INFO:	SERVER:#### 
+07-08-2016 08:21:20:851230 INFO:	SERVER:infite while loop 
+07-08-2016 08:21:20:851290 INFO:	SERVER: pre  %d
+ 
+07-08-2016 08:21:20:851306 INFO:	SERVER:#### 
+07-08-2016 08:21:20:851315 INFO:	SERVER:infite while loop 
+07-08-2016 08:21:20:851391 INFO:	SERVER: pre  %d
+ 
+07-08-2016 08:21:20:851408 INFO:	SERVER:#### 
+07-08-2016 08:21:20:853109 INFO:	SERVER:infite while loop 
+07-08-2016 08:21:20:855042 INFO:	SERVER: pre  %d
+ 
+07-08-2016 08:21:20:855382 INFO:	SERVER:#### 
+07-08-2016 08:21:20:855572 INFO:	SERVER:infite while loop 
+07-08-2016 08:21:26:956805 INFO:	SERVER: pre  %d
+ 
+07-08-2016 08:21:26:956855 INFO:	SERVER:#### 
+07-08-2016 08:21:26:956869 INFO:	SERVER:infite while loop 
+07-08-2016 08:22:16:182116 INFO:	SERVER:Staring the server 
+07-08-2016 08:22:16:182599 INFO:	SERVER:Fetching data base path 
+07-08-2016 08:22:16:182944 DEBUG:	SERVER:Database path found 
+07-08-2016 08:22:16:183809 INFO:	SERVER:Client[ ] request for details pulsar 23 
+07-08-2016 08:22:16:183978 DEBUG:	SERVER:Getting the instance of database 
+07-08-2016 08:22:16:184161 INFO:	SERVER:Get the data for the required vehicle 
+07-08-2016 08:22:16:184332 INFO:	SERVER:Fiiling up base class vahan 
+07-08-2016 08:22:16:186209 INFO:	SERVER:Pulsar details sent over socket 
+07-08-2016 08:22:16:187054 INFO:	SERVER:Server exiting..... 
+07-08-2016 08:22:16:187230 INFO:	SERVER:initializing the inotify 
+07-08-2016 08:22:16:187438 INFO:	SERVER:Staring the thread for inotify 
+07-08-2016 08:22:16:187674 INFO:	SERVER:Adding a watch for file 
+07-08-2016 08:22:16:188003 INFO:	SERVER:infite while loop 
+07-08-2016 08:22:21:269047 INFO:	SERVER:Value of i is  
+07-08-2016 08:22:21:269143 INFO:	SERVER:#### 
+07-08-2016 08:22:21:269209 INFO:	SERVER:Value of i is  
+07-08-2016 08:22:21:269240 INFO:	SERVER:#### 
+07-08-2016 08:22:21:269263 INFO:	SERVER:ent->mask 
+07-08-2016 08:22:21:269291 INFO:	SERVER:file is modified 
+07-08-2016 08:22:21:269333 INFO:	SERVER:ENT_SIZE  
+07-08-2016 08:22:21:269359 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 08:22:21:269385 INFO:	SERVER:infite while loop 
+07-08-2016 08:22:28:941246 INFO:	SERVER:Value of i is  
+07-08-2016 08:22:28:941317 INFO:	SERVER:#### 
+07-08-2016 08:22:28:941362 INFO:	SERVER:Value of i is  
+07-08-2016 08:22:28:941383 INFO:	SERVER:#### 
+07-08-2016 08:22:28:941400 INFO:	SERVER:ent->mask 
+07-08-2016 08:22:28:941421 INFO:	SERVER:file is modified 
+07-08-2016 08:22:28:941513 INFO:	SERVER:ENT_SIZE  
+07-08-2016 08:22:28:941538 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 08:22:28:941557 INFO:	SERVER:infite while loop 
+07-08-2016 08:22:35:520452 INFO:	SERVER:Value of i is  
+07-08-2016 08:22:35:520549 INFO:	SERVER:#### 
+07-08-2016 08:22:35:520608 INFO:	SERVER:Value of i is  
+07-08-2016 08:22:35:520638 INFO:	SERVER:#### 
+07-08-2016 08:22:35:520662 INFO:	SERVER:ent->mask 
+07-08-2016 08:22:35:520690 INFO:	SERVER:file is modified 
+07-08-2016 08:22:35:520731 INFO:	SERVER:ENT_SIZE  
+07-08-2016 08:22:35:520757 INFO:	SERVER:ing the thread for inotify 
+07-08-2016 08:22:35:520784 INFO:	SERVER:infite while loop 
+07-08-2016 08:34:11:937309 INFO:	SERVER:Staring the server 
+07-08-2016 08:34:11:937687 INFO:	SERVER:Fetching data base path 
+07-08-2016 08:34:11:937829 DEBUG:	SERVER:Database path found 
+07-08-2016 08:34:11:939077 INFO:	SERVER:Client[ ] request for details pulsar 23 
+07-08-2016 08:34:11:939498 DEBUG:	SERVER:Getting the instance of database 
+07-08-2016 08:34:11:939608 INFO:	SERVER:Get the data for the required vehicle 
+07-08-2016 08:34:11:939697 INFO:	SERVER:Fiiling up base class vahan 
+07-08-2016 08:34:11:940493 INFO:	SERVER:Pulsar details sent over socket 
+07-08-2016 08:34:11:940584 INFO:	SERVER:Server exiting..... 
+07-08-2016 08:34:11:940632 INFO:	SERVER:initializing the inotify 
+07-08-2016 08:34:11:940681 INFO:	SERVER:Staring the thread for inotify 
+07-08-2016 08:34:11:940787 INFO:	SERVER:Adding a watch for file 
+07-08-2016 08:34:17:334045 INFO:	SERVER:Database is modified 
+07-08-2016 08:35:30:284680 INFO:	SERVER:Database is modified 
+07-08-2016 08:35:35:285381 INFO:	SERVER:Database is modified 
+07-08-2016 08:36:20:792355 INFO:	SERVER:Staring the server 
+07-08-2016 08:36:20:792950 INFO:	SERVER:Fetching data base path 
+07-08-2016 08:36:20:793279 DEBUG:	SERVER:Database path found 
+07-08-2016 08:36:20:795844 INFO:	SERVER:Client[ ] request for details pulsar 23 
+07-08-2016 08:36:20:796218 DEBUG:	SERVER:Getting the instance of database 
+07-08-2016 08:36:20:796433 INFO:	SERVER:Get the data for the required vehicle 
+07-08-2016 08:36:20:796569 INFO:	SERVER:Fiiling up base class vahan 
+07-08-2016 08:36:20:797823 INFO:	SERVER:Pulsar details sent over socket 
+07-08-2016 08:36:20:798221 INFO:	SERVER:Server exiting..... 
+07-08-2016 08:36:20:798416 INFO:	SERVER:initializing the inotify 
+07-08-2016 08:36:20:798525 INFO:	SERVER:Staring the thread for inotify 
+07-08-2016 08:36:20:798780 INFO:	SERVER:Adding a watch for file 
+07-08-2016 08:36:32:421340 INFO:	SERVER:Database is modified 
+07-08-2016 08:45:18:319564 INFO:	SERVER:Staring the server 
+07-08-2016 08:45:18:320263 INFO:	SERVER:Fetching data base path 
+07-08-2016 08:45:18:322280 DEBUG:	SERVER:Database path found 
+07-08-2016 08:45:18:324378 INFO:	SERVER:Client[ ] request for details pulsar 23 
+07-08-2016 08:45:18:324879 DEBUG:	SERVER:Getting the instance of database 
+07-08-2016 08:45:18:325705 INFO:	SERVER:Get the data for the required vehicle 
+07-08-2016 08:45:18:325996 INFO:	SERVER:Fiiling up base class vahan 
+07-08-2016 08:45:18:332104 INFO:	SERVER:Pulsar details sent over socket 
+07-08-2016 08:45:18:332868 INFO:	SERVER:Server exiting..... 
+07-08-2016 08:45:18:333273 INFO:	SERVER:initializing the inotify 
+07-08-2016 08:45:18:334141 INFO:	SERVER:Staring the thread for inotify 
+07-08-2016 08:45:18:334883 INFO:	SERVER:Adding a watch for file 
+07-08-2016 08:45:26:66401 INFO:	SERVER:Database is modified 
+07-08-2016 08:45:37:290659 INFO:	SERVER:Database is modified 
+07-08-2016 08:48:13:948951 INFO:	SERVER:Staring the server 
+07-08-2016 08:48:13:949620 INFO:	SERVER:Fetching data base path 
+07-08-2016 08:48:13:950426 DEBUG:	SERVER:Database path found 
+07-08-2016 08:48:13:952208 INFO:	SERVER:Client[ ] request for details pulsar 23 
+07-08-2016 08:48:13:953294 DEBUG:	SERVER:Getting the instance of database 
+07-08-2016 08:48:13:954255 INFO:	SERVER:Get the data for the required vehicle 
+07-08-2016 08:48:13:955169 INFO:	SERVER:Fiiling up base class vahan 
+07-08-2016 08:48:13:960220 INFO:	SERVER:Pulsar details sent over socket 
+07-08-2016 08:48:13:960870 INFO:	SERVER:Server exiting..... 
+07-08-2016 08:48:13:961109 INFO:	SERVER:initializing the inotify 
+07-08-2016 08:48:13:962173 INFO:	SERVER:Staring the thread for inotify 
+07-08-2016 08:48:13:962647 INFO:	SERVER:Adding a watch for file 
+07-08-2016 08:48:16:2133 INFO:	SERVER:Database is modified 
+07-08-2016 08:52:58:68619 INFO:	SERVER:Staring the server 
+07-08-2016 08:52:58:68922 INFO:	SERVER:Fetching data base path 
+07-08-2016 08:52:58:70167 DEBUG:	SERVER:Database path found 
+07-08-2016 08:52:58:70924 INFO:	SERVER:Client[ ] request for details pulsar 23 
+07-08-2016 08:52:58:71923 DEBUG:	SERVER:Getting the instance of database 
+07-08-2016 08:52:58:73210 INFO:	SERVER:Get the data for the required vehicle 
+07-08-2016 08:52:58:75104 INFO:	SERVER:Fiiling up base class vahan 
+07-08-2016 08:52:58:79954 INFO:	SERVER:Pulsar details sent over socket 
+07-08-2016 08:52:58:81887 INFO:	SERVER:Server exiting..... 
+07-08-2016 08:52:58:82817 INFO:	SERVER:initializing the inotify 
+07-08-2016 08:52:58:83710 INFO:	SERVER:Staring the thread for inotify 
+07-08-2016 08:52:58:84348 INFO:	SERVER:Adding a watch for file 
+07-08-2016 08:54:06:748103 INFO:	SERVER:Staring the server 
+07-08-2016 08:54:06:748953 INFO:	SERVER:Fetching data base path 
+07-08-2016 08:54:06:751109 DEBUG:	SERVER:Database path found 
+07-08-2016 08:54:06:753395 INFO:	SERVER:Client[ ] request for details pulsar 23 
+07-08-2016 08:54:06:754037 DEBUG:	SERVER:Getting the instance of database 
+07-08-2016 08:54:06:754611 INFO:	SERVER:Get the data for the required vehicle 
+07-08-2016 08:54:06:755153 INFO:	SERVER:Fiiling up base class vahan 
+07-08-2016 08:54:06:759859 INFO:	SERVER:Pulsar details sent over socket 
+07-08-2016 08:54:06:762028 INFO:	SERVER:Server exiting..... 
+07-08-2016 08:54:06:762924 INFO:	SERVER:initializing the inotify 
+07-08-2016 08:54:06:763291 INFO:	SERVER:Staring the thread for inotify 
+07-08-2016 08:54:06:764947 INFO:	SERVER:Adding a watch for file 
+07-08-2016 08:55:09:385051 INFO:	SERVER:Staring the server 
+07-08-2016 08:55:09:385782 INFO:	SERVER:Fetching data base path 
+07-08-2016 08:55:09:386659 DEBUG:	SERVER:Database path found 
+07-08-2016 08:55:09:391322 INFO:	SERVER:Client[ ] request for details pulsar 23 
+07-08-2016 08:55:09:392044 DEBUG:	SERVER:Getting the instance of database 
+07-08-2016 08:55:09:392761 INFO:	SERVER:Get the data for the required vehicle 
+07-08-2016 08:55:09:393262 INFO:	SERVER:Fiiling up base class vahan 
+07-08-2016 08:55:09:398442 INFO:	SERVER:Pulsar details sent over socket 
+07-08-2016 08:55:09:399005 INFO:	SERVER:Server exiting..... 
+07-08-2016 08:55:09:399167 INFO:	SERVER:initializing the inotify 
+07-08-2016 08:55:09:400589 INFO:	SERVER:Staring the thread for inotify 
+07-08-2016 08:55:09:401435 INFO:	SERVER:Adding a watch for file 
+07-08-2016 08:55:43:820796 INFO:	SERVER:Staring the server 
+07-08-2016 08:55:43:821759 INFO:	SERVER:Fetching data base path 
+07-08-2016 08:55:43:822262 DEBUG:	SERVER:Database path found 
+07-08-2016 08:55:43:824557 INFO:	SERVER:Client[ ] request for details pulsar 23 
+07-08-2016 08:55:43:825181 DEBUG:	SERVER:Getting the instance of database 
+07-08-2016 08:55:43:827468 INFO:	SERVER:Get the data for the required vehicle 
+07-08-2016 08:55:43:828562 INFO:	SERVER:Fiiling up base class vahan 
+07-08-2016 08:55:43:834628 INFO:	SERVER:Pulsar details sent over socket 
+07-08-2016 08:55:43:835338 INFO:	SERVER:Server exiting..... 
+07-08-2016 08:55:43:835742 INFO:	SERVER:initializing the inotify 
+07-08-2016 08:55:43:835954 INFO:	SERVER:Staring the thread for inotify 
+07-08-2016 08:55:43:836290 INFO:	SERVER:Adding a watch for file 
+07-08-2016 08:59:51:182128 INFO:	SERVER:Staring the server 
+07-08-2016 08:59:51:183045 INFO:	SERVER:Fetching data base path 
+07-08-2016 08:59:51:183448 DEBUG:	SERVER:Database path found 
+07-08-2016 08:59:51:185336 INFO:	SERVER:Client[ ] request for details pulsar 23 
+07-08-2016 08:59:51:185642 DEBUG:	SERVER:Getting the instance of database 
+07-08-2016 08:59:51:185859 INFO:	SERVER:Get the data for the required vehicle 
+07-08-2016 08:59:51:186099 INFO:	SERVER:Fiiling up base class vahan 
+07-08-2016 08:59:51:192938 INFO:	SERVER:Pulsar details sent over socket 
+07-08-2016 08:59:51:193413 INFO:	SERVER:Server exiting..... 
+07-08-2016 08:59:51:193581 INFO:	SERVER:initializing the inotify 
+07-08-2016 08:59:51:193680 INFO:	SERVER:Staring the thread for inotify 
+07-08-2016 08:59:51:194251 INFO:	SERVER:Adding a watch for file 
+07-08-2016 08:59:55:28952 INFO:	SERVER:Database is modified  
+07-08-2016 09:00:27:975168 INFO:	SERVER:Staring the server 
+07-08-2016 09:00:27:976064 INFO:	SERVER:Fetching data base path 
+07-08-2016 09:00:27:976850 DEBUG:	SERVER:Database path found 
+07-08-2016 09:00:27:980715 INFO:	SERVER:Client[ ] request for details pulsar 23 
+07-08-2016 09:00:27:981178 DEBUG:	SERVER:Getting the instance of database 
+07-08-2016 09:00:27:981605 INFO:	SERVER:Get the data for the required vehicle 
+07-08-2016 09:00:27:981962 INFO:	SERVER:Fiiling up base class vahan 
+07-08-2016 09:00:27:988046 INFO:	SERVER:Pulsar details sent over socket 
+07-08-2016 09:00:27:988269 INFO:	SERVER:Server exiting..... 
+07-08-2016 09:00:27:988402 INFO:	SERVER:initializing the inotify 
+07-08-2016 09:00:27:988534 INFO:	SERVER:Staring the thread for inotify 
+07-08-2016 09:00:27:988762 INFO:	SERVER:Adding a watch for file 
+07-08-2016 09:00:30:829345 INFO:	SERVER:Database is modified database.txt 
+07-08-2016 09:01:48:465236 INFO:	SERVER:Staring the server 
+07-08-2016 09:01:48:465655 INFO:	SERVER:Fetching data base path 
+07-08-2016 09:01:48:466000 DEBUG:	SERVER:Database path found 
+07-08-2016 09:01:48:468530 INFO:	SERVER:Client[ ] request for details pulsar 23 
+07-08-2016 09:01:48:468595 DEBUG:	SERVER:Getting the instance of database 
+07-08-2016 09:01:48:468612 INFO:	SERVER:Get the data for the required vehicle 
+07-08-2016 09:01:48:468647 INFO:	SERVER:Fiiling up base class vahan 
+07-08-2016 09:01:48:472079 INFO:	SERVER:Pulsar details sent over socket 
+07-08-2016 09:01:48:472175 INFO:	SERVER:Server exiting..... 
+07-08-2016 09:01:48:472193 INFO:	SERVER:initializing the inotify 
+07-08-2016 09:01:48:472207 INFO:	SERVER:Staring the thread for inotify 
+07-08-2016 09:01:48:472493 INFO:	SERVER:Adding a watch for file 
+07-08-2016 09:01:50:500269 INFO:	SERVER:Database is modified database.txt 
+07-08-2016 09:01:59:787206 INFO:	SERVER:Database is modified database.txt 
+07-08-2016 09:05:03:919685 INFO:	SERVER:Staring the server 
+07-08-2016 09:05:03:920019 INFO:	SERVER:Fetching data base path 
+07-08-2016 09:05:03:920175 DEBUG:	SERVER:Database path found 
+07-08-2016 09:05:03:921217 INFO:	SERVER:Client[ ] request for details pulsar 23 
+07-08-2016 09:05:03:921880 DEBUG:	SERVER:Getting the instance of database 
+07-08-2016 09:05:03:921951 INFO:	SERVER:Get the data for the required vehicle 
+07-08-2016 09:05:03:922027 INFO:	SERVER:Fiiling up base class vahan 
+07-08-2016 09:05:03:926469 INFO:	SERVER:Pulsar details sent over socket 
+07-08-2016 09:05:03:926619 INFO:	SERVER:Server exiting..... 
+07-08-2016 09:05:03:926662 INFO:	SERVER:initializing the inotify 
+07-08-2016 09:05:03:926696 INFO:	SERVER:Staring the thread for inotify 
+07-08-2016 09:05:03:927035 INFO:	SERVER:Adding a watch for file 
+21-08-2016 05:57:59:929463 INFO:	SERVER:Staring the server 
+21-08-2016 05:57:59:976806 INFO:	SERVER:Fetching data base path 
+21-08-2016 05:58:00:18238 DEBUG:	SERVER:Database path found 
+21-08-2016 05:58:00:55276 INFO:	SERVER:Client[ ] request for details pulsar 23 
+21-08-2016 05:58:00:55592 DEBUG:	SERVER:Getting the instance of database 
+21-08-2016 05:58:00:55745 INFO:	SERVER:Get the data for the required vehicle 
+21-08-2016 05:58:00:55909 INFO:	SERVER:Fiiling up base class vahan 
+21-08-2016 05:58:00:57337 INFO:	SERVER:Pulsar details sent over socket 
+21-08-2016 05:58:00:57555 INFO:	SERVER:Server exiting..... 
+21-08-2016 05:58:00:57720 INFO:	SERVER:initializing the inotify 
+21-08-2016 05:58:00:57841 INFO:	SERVER:Staring the thread for inotify 
+21-08-2016 05:58:00:58124 INFO:	SERVER:Adding a watch for file 
+21-08-2016 05:58:28:878294 INFO:	SERVER:Database is modified .database.txt.swp 
+21-08-2016 05:58:28:878459 INFO:	SERVER:Database is Updated .database.txt.swp 
+21-08-2016 05:58:28:878487 INFO:	SERVER:Get the data for the required vehicle 
+21-08-2016 05:58:28:878530 INFO:	SERVER:Fiiling up base class vahan 
+21-08-2016 05:58:33:879546 INFO:	SERVER:Database is modified .database.txt.swp 
+21-08-2016 05:58:33:879833 INFO:	SERVER:Database is Updated .database.txt.swp 
+21-08-2016 05:58:33:879871 INFO:	SERVER:Get the data for the required vehicle 
+21-08-2016 05:58:33:879913 INFO:	SERVER:Fiiling up base class vahan 
+21-08-2016 05:59:00:335827 INFO:	SERVER:Database is modified .database.txt.swp 
+21-08-2016 05:59:00:336243 INFO:	SERVER:Database is Updated .database.txt.swp 
+21-08-2016 05:59:00:336300 INFO:	SERVER:Get the data for the required vehicle 
+21-08-2016 05:59:00:336370 INFO:	SERVER:Fiiling up base class vahan 
+21-08-2016 05:59:05:337051 INFO:	SERVER:Database is modified .database.txt.swp 
+21-08-2016 05:59:05:337470 INFO:	SERVER:Database is Updated .database.txt.swp 
+21-08-2016 05:59:05:337521 INFO:	SERVER:Get the data for the required vehicle 
+21-08-2016 05:59:05:337581 INFO:	SERVER:Fiiling up base class vahan 
+21-08-2016 05:59:20:583159 INFO:	SERVER:Database is modified .database.txt.swp 
+21-08-2016 05:59:20:583534 INFO:	SERVER:Database is Updated .database.txt.swp 
+21-08-2016 05:59:20:583590 INFO:	SERVER:Get the data for the required vehicle 
+21-08-2016 05:59:20:583659 INFO:	SERVER:Fiiling up base class vahan 
+21-08-2016 05:59:25:584745 INFO:	SERVER:Database is modified database.txt 
+21-08-2016 05:59:25:585195 INFO:	SERVER:Database is Updated database.txt 
+21-08-2016 05:59:25:585256 INFO:	SERVER:Get the data for the required vehicle 
+21-08-2016 05:59:25:585323 INFO:	SERVER:Fiiling up base class vahan 
+21-08-2016 05:59:25:585419 INFO:	SERVER:Database is modified .database.txt.swp 
+21-08-2016 05:59:25:585731 INFO:	SERVER:Database is Updated .database.txt.swp 
+21-08-2016 05:59:25:585788 INFO:	SERVER:Get the data for the required vehicle 
+21-08-2016 05:59:25:585850 INFO:	SERVER:Fiiling up base class vahan 
+21-08-2016 05:59:41:821199 INFO:	SERVER:Database is modified .database.txt.swp 
+21-08-2016 05:59:41:821618 INFO:	SERVER:Database is Updated .database.txt.swp 
+21-08-2016 05:59:41:821668 INFO:	SERVER:Get the data for the required vehicle 
+21-08-2016 05:59:41:821788 INFO:	SERVER:Fiiling up base class vahan 
+21-08-2016 05:59:46:823050 INFO:	SERVER:Database is modified .database.txt.swp 
+21-08-2016 05:59:46:823207 INFO:	SERVER:Database is Updated .database.txt.swp 
+21-08-2016 05:59:46:823221 INFO:	SERVER:Get the data for the required vehicle 
+21-08-2016 05:59:46:823240 INFO:	SERVER:Fiiling up base class vahan 
+21-08-2016 05:59:46:823266 INFO:	SERVER:Database is modified database.txt 
+21-08-2016 05:59:46:823323 INFO:	SERVER:Database is Updated database.txt 
+21-08-2016 05:59:46:823333 INFO:	SERVER:Get the data for the required vehicle 
+21-08-2016 05:59:46:823350 INFO:	SERVER:Fiiling up base class vahan 
+21-08-2016 05:59:46:823374 INFO:	SERVER:Database is modified .database.txt.swp 
+21-08-2016 05:59:46:823514 INFO:	SERVER:Database is Updated .database.txt.swp 
+21-08-2016 05:59:46:823542 INFO:	SERVER:Get the data for the required vehicle 
+21-08-2016 05:59:46:823562 INFO:	SERVER:Fiiling up base class vahan 
+21-08-2016 05:59:51:823863 INFO:	SERVER:Database is modified .database.txt.swp 
+21-08-2016 05:59:51:824223 INFO:	SERVER:Database is Updated .database.txt.swp 
+21-08-2016 05:59:51:824271 INFO:	SERVER:Get the data for the required vehicle 
+21-08-2016 05:59:51:824324 INFO:	SERVER:Fiiling up base class vahan 
+21-08-2016 06:22:01:838261 INFO:	SERVER:Staring the server 
+21-08-2016 06:22:01:841408 INFO:	SERVER:Fetching data base path 
+21-08-2016 06:22:01:842871 DEBUG:	SERVER:Database path found 
+21-08-2016 06:22:01:849886 INFO:	SERVER:Client[ ] request for details pulsar 23 
+21-08-2016 06:22:01:850205 DEBUG:	SERVER:Getting the instance of database 
+21-08-2016 06:22:01:850360 INFO:	SERVER:Get the data for the required vehicle 
+21-08-2016 06:22:01:850456 INFO:	SERVER:Fiiling up base class vahan 
+21-08-2016 06:22:01:851658 INFO:	SERVER:Pulsar details sent over socket 
+21-08-2016 06:22:01:851824 INFO:	SERVER:Server exiting..... 
+21-08-2016 06:22:01:852138 INFO:	SERVER:initializing the inotify 
+21-08-2016 06:22:01:852411 INFO:	SERVER:Staring the thread for inotify 
+21-08-2016 06:22:01:852791 INFO:	SERVER:Adding a watch for file 
+21-08-2016 06:22:30:317858 INFO:	SERVER:Database is modified .database.txt.swp 
+21-08-2016 06:22:30:318209 INFO:	SERVER:Database is Updated .database.txt.swp 
+21-08-2016 06:22:30:318235 INFO:	SERVER:Get the data for the required vehicle 
+21-08-2016 06:22:30:318254 INFO:	SERVER:Fiiling up base class vahan 
+21-08-2016 06:22:35:319709 INFO:	SERVER:Database is modified .database.txt.swp 
+21-08-2016 06:22:35:320463 INFO:	SERVER:Database is Updated .database.txt.swp 
+21-08-2016 06:22:35:320511 INFO:	SERVER:Get the data for the required vehicle 
+21-08-2016 06:22:35:320613 INFO:	SERVER:Fiiling up base class vahan 
+21-08-2016 06:22:59:990151 INFO:	SERVER:Database is modified .database.txt.swp 
+21-08-2016 06:22:59:990543 INFO:	SERVER:Database is Updated .database.txt.swp 
+21-08-2016 06:22:59:990560 INFO:	SERVER:Get the data for the required vehicle 
+21-08-2016 06:22:59:990578 INFO:	SERVER:Fiiling up base class vahan 
+21-08-2016 06:23:04:991362 INFO:	SERVER:Database is modified .database.txt.swp 
+21-08-2016 06:23:04:991960 INFO:	SERVER:Database is Updated .database.txt.swp 
+21-08-2016 06:23:04:991998 INFO:	SERVER:Get the data for the required vehicle 
+21-08-2016 06:23:04:992048 INFO:	SERVER:Fiiling up base class vahan 
+21-08-2016 06:23:27:885412 INFO:	SERVER:Database is modified .database.txt.swp 
+21-08-2016 06:23:27:886392 INFO:	SERVER:Database is Updated .database.txt.swp 
+21-08-2016 06:23:27:886456 INFO:	SERVER:Get the data for the required vehicle 
+21-08-2016 06:23:27:886522 INFO:	SERVER:Fiiling up base class vahan 
+21-08-2016 06:23:32:887415 INFO:	SERVER:Database is modified .database.txt.swp 
+21-08-2016 06:23:32:888047 INFO:	SERVER:Database is Updated .database.txt.swp 
+21-08-2016 06:23:32:888084 INFO:	SERVER:Get the data for the required vehicle 
+21-08-2016 06:23:32:888122 INFO:	SERVER:Fiiling up base class vahan 
+21-08-2016 06:23:32:888173 INFO:	SERVER:Database is modified database.txt 
+21-08-2016 06:23:32:888617 INFO:	SERVER:Database is Updated database.txt 
+21-08-2016 06:23:32:888648 INFO:	SERVER:Get the data for the required vehicle 
+21-08-2016 06:23:32:888681 INFO:	SERVER:Fiiling up base class vahan 
+21-08-2016 06:23:32:888772 INFO:	SERVER:Database is modified .database.txt.swp 
+21-08-2016 06:23:32:892040 INFO:	SERVER:Database is Updated .database.txt.swp 
+21-08-2016 06:23:32:893126 INFO:	SERVER:Get the data for the required vehicle 
+21-08-2016 06:23:32:893549 INFO:	SERVER:Fiiling up base class vahan 
+21-08-2016 06:23:43:582011 INFO:	SERVER:Staring the server 
+21-08-2016 06:23:43:582822 INFO:	SERVER:Fetching data base path 
+21-08-2016 06:23:43:583692 DEBUG:	SERVER:Database path found 
+21-08-2016 06:23:43:593113 INFO:	SERVER:Client[ ] request for details pulsar 23 
+21-08-2016 06:23:43:593608 DEBUG:	SERVER:Getting the instance of database 
+21-08-2016 06:23:43:593868 INFO:	SERVER:Get the data for the required vehicle 
+21-08-2016 06:23:43:594320 INFO:	SERVER:Fiiling up base class vahan 
+21-08-2016 06:23:43:596789 INFO:	SERVER:Pulsar details sent over socket 
+21-08-2016 06:23:43:597167 INFO:	SERVER:Server exiting..... 
+21-08-2016 06:23:43:597528 INFO:	SERVER:initializing the inotify 
+21-08-2016 06:23:43:597789 INFO:	SERVER:Staring the thread for inotify 
+21-08-2016 06:23:43:598627 INFO:	SERVER:Adding a watch for file 
+21-08-2016 06:26:37:831805 INFO:	SERVER:Staring the server 
+21-08-2016 06:26:37:832405 INFO:	SERVER:Fetching data base path 
+21-08-2016 06:26:37:833201 DEBUG:	SERVER:Database path found 
+21-08-2016 06:26:37:841607 INFO:	SERVER:Client[ ] request for details pulsar 23 
+21-08-2016 06:26:37:842141 DEBUG:	SERVER:Getting the instance of database 
+21-08-2016 06:26:37:842614 INFO:	SERVER:Get the data for the required vehicle 
+21-08-2016 06:26:37:842866 INFO:	SERVER:Fiiling up base class vahan 
+21-08-2016 06:26:37:844083 INFO:	SERVER:Pulsar details sent over socket 
+21-08-2016 06:26:37:844324 INFO:	SERVER:Server exiting..... 
+21-08-2016 06:26:37:844509 INFO:	SERVER:initializing the inotify 
+21-08-2016 06:26:37:844631 INFO:	SERVER:Staring the thread for inotify 
+21-08-2016 06:26:37:844850 INFO:	SERVER:Adding a watch for file 
+21-08-2016 06:26:52:619841 INFO:	SERVER:Database is modified .database.txt.swp 
+21-08-2016 06:26:52:620614 INFO:	SERVER:Database is Updated .database.txt.swp 
+21-08-2016 06:26:52:620647 INFO:	SERVER:Get the data for the required vehicle 
+21-08-2016 06:26:52:620667 INFO:	SERVER:Fiiling up base class vahan 
+21-08-2016 06:29:37:220797 INFO:	SERVER:Staring the server 
+21-08-2016 06:29:37:221311 INFO:	SERVER:Fetching data base path 
+21-08-2016 06:29:37:221565 DEBUG:	SERVER:Database path found 
+21-08-2016 06:29:37:233229 INFO:	SERVER:Client[ ] request for details pulsar 23 
+21-08-2016 06:29:37:233318 DEBUG:	SERVER:Getting the instance of database 
+21-08-2016 06:29:37:233402 INFO:	SERVER:Get the data for the required vehicle 
+21-08-2016 06:29:37:233484 INFO:	SERVER:Fiiling up base class vahan 
+21-08-2016 06:29:37:236026 INFO:	SERVER:Pulsar details sent over socket 
+21-08-2016 06:29:37:236104 INFO:	SERVER:Server exiting..... 
+21-08-2016 06:29:37:236133 INFO:	SERVER:initializing the inotify 
+21-08-2016 06:29:37:236158 INFO:	SERVER:Staring the thread for inotify 
+21-08-2016 06:29:37:237045 INFO:	SERVER:Adding a watch for file 
+21-08-2016 06:30:52:140684 INFO:	SERVER:Database is modified .database.txt.swp 
+21-08-2016 06:30:52:140964 INFO:	SERVER:Database is Updated .database.txt.swp 
+21-08-2016 06:30:52:140978 INFO:	SERVER:Get the data for the required vehicle 
+21-08-2016 06:30:52:140995 INFO:	SERVER:Fiiling up base class vahan 
+21-08-2016 06:30:57:142079 INFO:	SERVER:Database is modified .database.txt.swp 
+21-08-2016 06:30:57:143193 INFO:	SERVER:Database is Updated .database.txt.swp 
+21-08-2016 06:30:57:143348 INFO:	SERVER:Get the data for the required vehicle 
+21-08-2016 06:30:57:143424 INFO:	SERVER:Fiiling up base class vahan 
+21-08-2016 06:31:02:144066 INFO:	SERVER:Database is modified .database.txt.swp 
+21-08-2016 06:31:02:145097 INFO:	SERVER:Database is Updated .database.txt.swp 
+21-08-2016 06:31:02:145161 INFO:	SERVER:Get the data for the required vehicle 
+21-08-2016 06:31:02:145229 INFO:	SERVER:Fiiling up base class vahan 
+21-08-2016 06:31:07:146163 INFO:	SERVER:Database is modified database.txt 
+21-08-2016 06:31:07:146762 INFO:	SERVER:Database is Updated database.txt 
+21-08-2016 06:31:07:146798 INFO:	SERVER:Get the data for the required vehicle 
+21-08-2016 06:31:07:146837 INFO:	SERVER:Fiiling up base class vahan 
+21-08-2016 06:31:07:146919 INFO:	SERVER:Database is modified .database.txt.swp 
+21-08-2016 06:31:07:148589 INFO:	SERVER:Database is Updated .database.txt.swp 
+21-08-2016 06:31:07:148832 INFO:	SERVER:Get the data for the required vehicle 
+21-08-2016 06:31:07:149064 INFO:	SERVER:Fiiling up base class vahan 
+21-08-2016 06:36:37:509274 INFO:	SERVER:Staring the server 
+21-08-2016 06:36:37:509508 INFO:	SERVER:Fetching data base path 
+21-08-2016 06:36:37:509613 DEBUG:	SERVER:Database path found 
+21-08-2016 06:36:37:514385 INFO:	SERVER:Client[ ] request for details pulsar 23 
+21-08-2016 06:36:37:514559 DEBUG:	SERVER:Getting the instance of database 
+21-08-2016 06:36:37:514679 INFO:	SERVER:Get the data for the required vehicle 
+21-08-2016 06:36:37:514770 INFO:	SERVER:Fiiling up base class vahan 
+21-08-2016 06:36:37:515837 INFO:	SERVER:Pulsar details sent over socket 
+21-08-2016 06:36:37:516014 INFO:	SERVER:Server exiting..... 
+21-08-2016 06:36:37:516117 INFO:	SERVER:initializing the inotify 
+21-08-2016 06:36:37:516191 INFO:	SERVER:Staring the thread for inotify 
+21-08-2016 06:36:37:516892 INFO:	SERVER:Adding a watch for file 
+21-08-2016 06:36:52:811051 INFO:	SERVER:Database is modified .database.txt.swp 
+21-08-2016 06:37:19:70081 INFO:	SERVER:Database is Updated .database.txt.swp 
+21-08-2016 06:37:34:240043 INFO:	SERVER:Get the data for the required vehicle 
+21-08-2016 06:37:54:735390 INFO:	SERVER:Fiiling up base class vahan 
+21-08-2016 06:41:11:262721 INFO:	SERVER:Database is modified .database.txt.swp 
+21-08-2016 07:03:32:678487 INFO:	SERVER:Staring the server 
+21-08-2016 07:03:32:678695 INFO:	SERVER:Fetching data base path 
+21-08-2016 07:03:32:678791 DEBUG:	SERVER:Database path found 
+21-08-2016 07:03:32:684138 INFO:	SERVER:Client[ ] request for details pulsar 23 
+21-08-2016 07:03:32:684192 DEBUG:	SERVER:Getting the instance of database 
+21-08-2016 07:03:32:684207 INFO:	SERVER:Get the data for the required vehicle 
+21-08-2016 07:03:32:684239 INFO:	SERVER:Fiiling up base class vahan 
+21-08-2016 07:03:32:686820 INFO:	SERVER:Pulsar details sent over socket 
+21-08-2016 07:03:32:686881 INFO:	SERVER:Server exiting..... 
+21-08-2016 07:03:32:686896 INFO:	SERVER:initializing the inotify 
+21-08-2016 07:03:32:686909 INFO:	SERVER:Staring the thread for inotify 
+21-08-2016 07:03:32:687079 INFO:	SERVER:Adding a watch for file 
+21-08-2016 07:05:37:468748 INFO:	SERVER:Database is modified .database.txt.swp 
+21-08-2016 07:05:37:469008 INFO:	SERVER:Database is Updated .database.txt.swp 
+21-08-2016 07:05:37:469027 INFO:	SERVER:Get the data for the required vehicle 
+21-08-2016 07:05:37:469049 INFO:	SERVER:Fiiling up base class vahan 
+21-08-2016 07:05:42:469804 INFO:	SERVER:Database is modified .database.txt.swp 
+21-08-2016 07:05:42:470831 INFO:	SERVER:Database is Updated .database.txt.swp 
+21-08-2016 07:05:42:470900 INFO:	SERVER:Get the data for the required vehicle 
+21-08-2016 07:05:42:470990 INFO:	SERVER:Fiiling up base class vahan 
+21-08-2016 07:05:53:793450 INFO:	SERVER:Database is modified .database.txt.swp 
+21-08-2016 07:05:53:794139 INFO:	SERVER:Database is Updated .database.txt.swp 
+21-08-2016 07:05:53:794193 INFO:	SERVER:Get the data for the required vehicle 
+21-08-2016 07:05:53:794303 INFO:	SERVER:Fiiling up base class vahan 
+21-08-2016 07:05:58:795514 INFO:	SERVER:Database is modified database.txt 
+21-08-2016 07:05:58:795757 INFO:	SERVER:Database is Updated database.txt 
+21-08-2016 07:05:58:795772 INFO:	SERVER:Get the data for the required vehicle 
+21-08-2016 07:05:58:795789 INFO:	SERVER:Fiiling up base class vahan 
+21-08-2016 07:05:58:795811 INFO:	SERVER:Database is modified .database.txt.swp 
+21-08-2016 07:05:58:795979 INFO:	SERVER:Database is Updated .database.txt.swp 
+21-08-2016 07:05:58:795997 INFO:	SERVER:Get the data for the required vehicle 
+21-08-2016 07:05:58:796012 INFO:	SERVER:Fiiling up base class vahan 
+21-08-2016 07:09:07:398380 INFO:	SERVER:Staring the server 
+21-08-2016 07:09:07:398918 INFO:	SERVER:Fetching data base path 
+21-08-2016 07:09:07:399404 DEBUG:	SERVER:Database path found 
+21-08-2016 07:09:07:400791 INFO:	SERVER:Client[ ] request for details pulsar 23 
+21-08-2016 07:09:07:401055 DEBUG:	SERVER:Getting the instance of database 
+21-08-2016 07:09:07:401494 INFO:	SERVER:Get the data for the required vehicle 
+21-08-2016 07:09:07:401827 INFO:	SERVER:Fiiling up base class vahan 
+21-08-2016 07:09:07:405899 INFO:	SERVER:Pulsar details sent over socket 
+21-08-2016 07:09:07:406713 INFO:	SERVER:Server exiting..... 
+21-08-2016 07:09:07:406951 INFO:	SERVER:initializing the inotify 
+21-08-2016 07:09:07:407198 INFO:	SERVER:Staring the thread for inotify 
+21-08-2016 07:09:07:407441 INFO:	SERVER:Adding a watch for file 
+21-08-2016 07:09:17:357185 INFO:	SERVER:Database is modified .database.txt.swp 
+21-08-2016 07:09:17:357444 INFO:	SERVER:Database is Updated .database.txt.swp 
+21-08-2016 07:09:17:357491 INFO:	SERVER:Get the data for the required vehicle 
+21-08-2016 07:09:17:357536 INFO:	SERVER:Fiiling up base class vahan 
+21-08-2016 07:09:22:358661 INFO:	SERVER:Database is modified .database.txt.swp 
+21-08-2016 07:09:22:358896 INFO:	SERVER:Database is Updated .database.txt.swp 
+21-08-2016 07:09:22:358921 INFO:	SERVER:Get the data for the required vehicle 
+21-08-2016 07:09:22:358951 INFO:	SERVER:Fiiling up base class vahan 
+21-08-2016 07:09:27:359261 INFO:	SERVER:Database is modified database.txt 
+21-08-2016 07:09:27:359480 INFO:	SERVER:Database is Updated database.txt 
+21-08-2016 07:09:27:359502 INFO:	SERVER:Get the data for the required vehicle 
+21-08-2016 07:09:27:359616 INFO:	SERVER:Fiiling up base class vahan 
+21-08-2016 07:09:27:359696 INFO:	SERVER:Database is modified .database.txt.swp 
+21-08-2016 07:09:27:359837 INFO:	SERVER:Database is Updated .database.txt.swp 
+21-08-2016 07:09:27:359862 INFO:	SERVER:Get the data for the required vehicle 
+21-08-2016 07:09:27:359891 INFO:	SERVER:Fiiling up base class vahan 
+21-08-2016 07:09:46:715971 INFO:	SERVER:Database is modified .database.txt.swp 
+21-08-2016 07:09:46:716143 INFO:	SERVER:Database is Updated .database.txt.swp 
+21-08-2016 07:09:46:716169 INFO:	SERVER:Get the data for the required vehicle 
+21-08-2016 07:09:46:716192 INFO:	SERVER:Fiiling up base class vahan 
+21-08-2016 07:09:51:716923 INFO:	SERVER:Database is modified .database.txt.swp 
+21-08-2016 07:09:51:717097 INFO:	SERVER:Database is Updated .database.txt.swp 
+21-08-2016 07:09:51:717112 INFO:	SERVER:Get the data for the required vehicle 
+21-08-2016 07:09:51:717132 INFO:	SERVER:Fiiling up base class vahan 
+21-08-2016 07:09:56:717569 INFO:	SERVER:Database is modified .database.txt.swp 
+21-08-2016 07:09:56:717751 INFO:	SERVER:Database is Updated .database.txt.swp 
+21-08-2016 07:09:56:717764 INFO:	SERVER:Get the data for the required vehicle 
+21-08-2016 07:09:56:717781 INFO:	SERVER:Fiiling up base class vahan 
+21-08-2016 07:10:01:934457 INFO:	SERVER:Database is modified .database.txt.swp 
+21-08-2016 07:10:01:934699 INFO:	SERVER:Database is Updated .database.txt.swp 
+21-08-2016 07:10:01:934781 INFO:	SERVER:Get the data for the required vehicle 
+21-08-2016 07:10:01:934812 INFO:	SERVER:Fiiling up base class vahan 
+21-08-2016 07:10:06:935015 INFO:	SERVER:Database is modified database.txt 
+21-08-2016 07:10:06:935492 INFO:	SERVER:Database is Updated database.txt 
+21-08-2016 07:10:06:935554 INFO:	SERVER:Get the data for the required vehicle 
+21-08-2016 07:10:06:935619 INFO:	SERVER:Fiiling up base class vahan 
+21-08-2016 07:10:06:935865 INFO:	SERVER:Database is modified .database.txt.swp 
+21-08-2016 07:10:06:936119 INFO:	SERVER:Database is Updated .database.txt.swp 
+21-08-2016 07:10:06:936156 INFO:	SERVER:Get the data for the required vehicle 
+21-08-2016 07:10:06:936214 INFO:	SERVER:Fiiling up base class vahan 
