@@ -28,5 +28,7 @@ void printlog(string date,int seconds,string severity,string tag, string message
 void logger(string severity, string tag, string message);
 void* inotify(void * f1);
 void init_inotify();
-		
+
+void getDataBasePath(void);
+void initialize_alldb();		
 #endif 
