@@ -18,7 +18,9 @@
 
 string database_path;
 pthread_t inotify_thread;			// handles notification when database is changed
-
+const int MAX_THREADS = 10;
+map<int,string> threadsAvailable;
+pthread_mutex_t mutex_threadsAvailable = PTHREAD_MUTEX_INITIALIZER;
 //----------------------------------------------//
 
 //------------function prototyping--------------//
@@ -47,26 +49,29 @@ int main()
 	// ..................
 	logger("INFO","SERVER","initializing the inotify");
 	init_inotify();
-	//get information for type of vehicle from client /// as of now get it from cout
-	cout << "enter vehicle type:\n 1. bike \n 2. scooty \n 3.car\n 4. cargl\n" << endl;
-	int typeOfVehicle;
-	cin >> typeOfVehicle;
-	switch (typeOfVehicle){
-		case 1:
-			handleBike();
-			break;
-			/*	case 2:
-				handleScooty();
+	while(1){
+		//get information for type of vehicle from client /// as of now get it from cout
+		cout << "enter vehicle type:\n 1. bike \n 2. scooty \n 3.car\n 4. cargl\n" << endl;
+		int typeOfVehicle;
+		cin >> typeOfVehicle;
+		switch (typeOfVehicle){
+			case 1:
+				handleBike();
 				break;
-				case 3:
-				handleCar();
+				/*	case 2:
+					handleScooty();
+					break;
+					case 3:
+					handleCar();
+					break;
+					case 4:
+					handleCargl();
+					break;*/
+			default:
+				logger("ERROR","SERVER","no matching vehicle received from client");
 				break;
-				case 4:
-				handleCargl();
-				break;*/
-		default:
-			logger("ERROR","SERVER","no matching vehicle received from client");
-			break;
+		}
+	while(1);
 	}
 	logger("INFO","SERVER","Server exiting.....");
 	pthread_join(inotify_thread,NULL);
@@ -122,4 +127,9 @@ void initialize_alldb()
 	two_gearless_db *pScooty = two_gearless_db::instance();
 	four_gear_db *pCar = four_gear_db::instance();
 	four_gearless_db *pAutoCar = four_gearless_db::instance();
+	for(int i=0;i<MAX_THREADS;i++){
+		threadsAvailable[i] = "unlocked";
+	}
+	//for (std::map<int,string>::iterator it=threadsAvailable.begin(); it!=threadsAvailable.end(); ++it)
+//    std::cout << it->first << " => " << it->second << '\n';
 }	
