@@ -31,7 +31,7 @@ void initialize_alldb();			// update database when server starts or when iNotify
 //----------------------------------------------//
 int main()
 {
-	logger("INFO","SERVER","Staring the server"); 		//common logger function for debugging
+	logger("INFO","SERVER","Starting the server"); 		//common logger function for debugging
 	logger("INFO","SERVER","Fetching data base path");
 	getDataBasePath();
 	logger("DEBUG","SERVER","Database path found");
