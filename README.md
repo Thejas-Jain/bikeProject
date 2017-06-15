@@ -1,3 +1,3 @@
 # bikeProject
-Sales, Service, Rent. 
+Sales, Service, Rent and more. 
 
